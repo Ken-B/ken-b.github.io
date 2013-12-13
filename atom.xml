@@ -1,16 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Ken and Ana's Travel Blog =)]]></title>
   <link href="http://Ken-B.github.io/atom.xml" rel="self"/>
   <link href="http://Ken-B.github.io/"/>
-  <updated>2013-12-12T23:01:35-02:00</updated>
+  <updated>2013-12-13T00:37:02-02:00</updated>
   <id>http://Ken-B.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Ken and Ana]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[And This Is Us]]></title>
+    <link href="http://Ken-B.github.io/blog/2013/12/03/and-this-is-us/"/>
+    <updated>2013-12-03T00:00:00-02:00</updated>
+    <id>http://Ken-B.github.io/blog/2013/12/03/and-this-is-us</id>
+    <content type="html"><![CDATA[<p>Well, here we are just arriving in Buenos Aires after a long plane ride. I&rsquo;ve got some catching up to do with the blog, so this is just the picture.</p>
+
+<p>Stories are soon to follow :)</p>
+
+<p><img src="http://Ken-B.github.io/images/DSC00140-001.JPG"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Our First Post]]></title>
+    <link href="http://Ken-B.github.io/blog/2013/12/02/our-first-post/"/>
+    <updated>2013-12-02T00:00:00-02:00</updated>
+    <id>http://Ken-B.github.io/blog/2013/12/02/our-first-post</id>
+    <content type="html"><![CDATA[<h2>Let&rsquo;s get this Blog started :)</h2>
+
+<p>This here is the song we were listening to while planning and packing and stressing and dancing and &hellip; before we set off on our adventure:</p>
+
+<iframe width="560" height="420" 
+        allowfullscreen="allowfullscreen"
+        src="http://www.youtube.com/embed/b0wfu3tOrtQ?color=white&theme=light"> </iframe>
+
+]]></content>
+  </entry>
   
 </feed>
