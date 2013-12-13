@@ -64,6 +64,8 @@ Right-click in folder where you want your blog site subfolder (`D:\Copy\Travel\B
 	- `git commit -m 'first setup'`
 	- `git push origin source` 
 
+**edit 13/12/2013:** I just saw that octopress handles this quite cleverly. Because GitHub does not allow jekyll plugins, octopress generates the site. The site itself is pushed under the master branch and used for the webpage, while the octopress code is under the source branch. Neat.
+
 # Ongoing usage
 
 ### Start a new blog post
