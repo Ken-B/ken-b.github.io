@@ -1,0 +1,112 @@
+---
+layout: post
+title: "Bloggin software (boring :)"
+date: 2013-12-12
+comments: true
+---
+
+*This is just a post for me to use later in case I lose my laptop (let's hope that doesn't happen [:)](http://xkcd.com/541/)*
+
+<!-- more --> 
+
+# Setup Blogging with [Octopress]
+
+### Install Ruby
+
+[Ruby](http://en.wikipedia.org/wiki/Ruby_%28programming_language%29) needs to be installed, but only the package manager [gem](http://en.wikipedia.org/wiki/RubyGems) is used later. On Mac this is usual already installed (type `ruby --version` in a [terminal] to check).
+
+I followed instructions from [this blog](http://www.madhur.co.in/blog/2011/09/01/runningjekyllwindows.html), although this guy now has all-in-one portable installation file for windows [now](http://www.madhur.co.in/blog/2013/07/20/buildportablejekyll.html), but bandwith is precious in these areas :)
+
+- 	Download RubyInstaller 1.93 (not 2.0) from http://rubyinstaller.org/downloads
+-	on the same page, download the corresponding DevKit
+-	install RubyInstaller to a directory without spaces, eg. `C:\Coding\Ruby`
+-	run DevKit, meaning unwrap to a directory without spaces, eg. `C:\Coding\RubyDevKit`
+-	run start > programs > Ruby 193 > "Start command prompt with ruby"
+-	`cd C:\Coding\RubyDevKit`
+-	`ruby dk.rb init`
+-	`ruby dk.rb install`
+
+### Install Git
+
+[Git](http://en.wikipedia.org/wiki/Git_%28software%29) was already installed, otherwise download and install from http://git-scm.com/.
+
+### Get Octopress from Git source
+
+[Octopress] is an open-source framework around the [Jekyll](http://jekyllrb.com/) static site generate (also used by github Pages).
+
+Right-click in folder where you want your blog site subfolder (`D:\Copy\Travel\Blog`) and select `Git Bash here` (otherwise start>programs>Git>"Git bash" and [`CD`](http://en.wikipedia.org/wiki/Cd_%28command%29) to directory):
+
+-	`git clone git://github.com/imathis/octopress.git ken-b.github.io`
+-	`cd ken-b.github.io`
+
+### Install the ruby dependencies 
+
+-	`gem install bundler`
+-	`bundle install`
+
+# First Time usage
+
+- create on http://github.com a new repository called `ken-b.github.io`
+- open and update the _config.yml file in `D:\Copy\Travel\Blog\octopress`, it's self-explanatory.
+
+- install the default theme (still in the `D:\Copy\Travel\Blog\octopress` folder)
+	- `rake install`
+
+- setup github (only if newly created and thus empty repository)
+	- `rake setup_github_pages` and enter `git@github.com:ken-b/ken-b.github.io.git`
+
+- For site generation and deployment run
+	- `rake generate`
+	- `rake deploy`	
+
+- Commit source for blog:
+	- `git add .`
+	- `git commit -m 'first setup'`
+	- `git push origin source` 
+
+# Ongoing usage
+
+### Start a new blog post
+
+
+In a [command window][terminal] in the octopress folder 
+
+	rake new_post["Title of the new post"]
+
+will create a new [markdown](http://en.wikipedia.org/wiki/Markdown) file named `YYYY-MM-DD-title-of-new-post.markdown` in the `\octopress\source\_posts\` subfolder. Then edit this file with notepad, sublime or--as I do--the free [MarkdownPad 2](http://markdownpad.com).
+
+When done, to preview run
+
+	rake preview 
+
+and check the preview on http://localhost:4000/.
+
+If it does not seem to update, try `jekyll serve`, which has more debugging output (I found out after misusing the image tag and not seeing the site update).s
+
+### Editing posts
+
+
+Markdown is [very easy to write and remember](http://web.archive.org/web/20040402182332/http://daringfireball.net/projects/markdown/), it's like writing in notepad but then [some magic happens](http://trevor-hopkins.com/fiction/miracle2.jpg) and--voilà--out comes a formatted site.	
+
+There's a [plugin for adding images](http://octopress.org/docs/plugins/image-tag/) using
+
+	{{ "{% img [class names] /path/to/image [width] [height] [title text [alt text]]" }} %}
+
+and a [plugin for video's](http://octopress.org/docs/plugins/video-tag/) using
+
+	{{ "{% video url/to/video [width height] [url/to/poster]" }} %}
+
+### Deploying
+
+If you're happy with the preview result, run
+
+	rake gen_deploy
+
+# TODO
+
+* I still have to figure out how to add facebook (app) comments
+* and adapt the rather boring default theme
+* Found out what the possibilities are for class name with image plugin. So far I've seen `left`, `right` and `left half`. Hopefully there's a plugin for a picture album, don't want to use facebook for this (because not everyone's on it).
+
+[terminal]: http://en.wikipedia.org/wiki/System_console
+[Octopress]: http://octopress.org

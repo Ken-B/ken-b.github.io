@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Our first post"
-date: 2013-12-12 23:17:52 -0200
+date: 2013-12-02 
 comments: true
 ---
 
