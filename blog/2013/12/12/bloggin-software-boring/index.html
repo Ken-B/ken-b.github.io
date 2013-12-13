@@ -191,7 +191,7 @@
 <pre><code>rake new_post["Title of the new post"]
 </code></pre>
 
-<p>will create a new <a href="http://en.wikipedia.org/wiki/Markdown">markdown</a> file named <code>YYYY-MM-DD-title-of-new-post.markdown</code> in the <code>\octopress\source\_posts\</code> subfolder. Then edit this file with notepad, sublime or&mdash;as I do&mdash;-the free <a href="http://markdownpad.com">MarkdownPad 2</a>.</p>
+<p>will create a new <a href="http://en.wikipedia.org/wiki/Markdown">markdown</a> file named <code>YYYY-MM-DD-title-of-new-post.markdown</code> in the <code>\octopress\source\_posts\</code> subfolder. Then edit this file with notepad, sublime or&mdash;as I do&mdash;the free <a href="http://markdownpad.com">MarkdownPad 2</a>.</p>
 
 <p>When done, to preview run</p>
 
@@ -200,11 +200,11 @@
 
 <p>and check the preview on <a href="http://localhost:4000/.">http://localhost:4000/.</a></p>
 
-<p>If it does not seem to update</p>
+<p>If it does not seem to update, try <code>jekyll serve</code>, which has more debugging output (I found out after misusing the image tag and not seeing the site update).s</p>
 
 <h3>Editing posts</h3>
 
-<p>Markdown is <a href="http://web.archive.org/web/20040402182332/http://daringfireball.net/projects/markdown/">very easy to write and remember</a>, it&rsquo;s like writing in notepad but then <a href="http://trevor-hopkins.com/fiction/miracle2.jpg">some magic happens</a> and&mdash;-voilà&mdash;-out comes a formatted site.</p>
+<p>Markdown is <a href="http://web.archive.org/web/20040402182332/http://daringfireball.net/projects/markdown/">very easy to write and remember</a>, it&rsquo;s like writing in notepad but then <a href="http://trevor-hopkins.com/fiction/miracle2.jpg">some magic happens</a> and&mdash;voilà&mdash;out comes a formatted site.</p>
 
 <p>There&rsquo;s a <a href="http://octopress.org/docs/plugins/image-tag/">plugin for adding images</a> using</p>
 
@@ -216,12 +216,19 @@
 <pre><code>{% video url/to/video [width height] [url/to/poster] %}
 </code></pre>
 
+<h3>Deploying</h3>
+
+<p>If you&rsquo;re happy with the preview result, run</p>
+
+<pre><code>rake gen_deploy
+</code></pre>
+
 <h1>TODO</h1>
 
 <ul>
 <li>I still have to figure out how to add facebook (app) comments</li>
 <li>and adapt the rather boring default theme</li>
-<li>Found out what the possibilities are for class name with image plugin. So far I&rsquo;ve seen <code>left</code>, <code>right</code> and <code>left half</code></li>
+<li>Found out what the possibilities are for class name with image plugin. So far I&rsquo;ve seen <code>left</code>, <code>right</code> and <code>left half</code>. Hopefully there&rsquo;s a plugin for a picture album, don&rsquo;t want to use facebook for this (because not everyone&rsquo;s on it).</li>
 </ul>
 
 </div>
