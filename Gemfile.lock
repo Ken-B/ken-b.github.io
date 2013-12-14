@@ -11,6 +11,7 @@ GEM
       fssm (>= 0.2.7)
       sass (~> 3.1)
     directory_watcher (1.4.1)
+    erubis (2.7.0)
     fast-stemmer (1.0.1)
     fssm (0.2.9)
     haml (3.1.7)
@@ -27,6 +28,9 @@ GEM
       syntax (>= 1.0.0)
     mini_magick (3.7.0)
       subexec (~> 0.2.1)
+    mini_portile (0.5.2)
+    nokogiri (1.6.0-x86-mingw32)
+      mini_portile (~> 0.5.0)
     posix-spawn (0.3.6)
     pygments.rb (0.3.4)
       posix-spawn (~> 0.3.6)
@@ -60,10 +64,12 @@ DEPENDENCIES
   RedCloth (~> 4.2.9)
   compass (~> 0.12.2)
   directory_watcher (= 1.4.1)
+  erubis
   haml (~> 3.1.7)
   jekyll (~> 0.12)
   liquid (~> 2.3.0)
   mini_magick
+  nokogiri
   pygments.rb (~> 0.3.4)
   rake (~> 0.9)
   rb-fsevent (~> 0.9)
