@@ -83,8 +83,6 @@ When done, to preview run
 
 and check the preview on http://localhost:4000/.
 
-If it does not seem to update, try `jekyll serve`, which has more debugging output (I found out after misusing the image tag and not seeing the site update).s
-
 ### Editing posts
 
 
@@ -103,6 +101,12 @@ and a [plugin for video's](http://octopress.org/docs/plugins/video-tag/) using
 If you're happy with the preview result, run
 
 	rake gen_deploy
+
+### Troubleshooting
+
+If it does not seem to update, try `jekyll serve`, which has more debugging output (I found out after misusing the image tag and not seeing the site update).
+
+Also, don't use tabs in the YML header of your posts, only spaces to indent (that's about 1h of my life I won't get back :\ )
 
 # TODO
 
