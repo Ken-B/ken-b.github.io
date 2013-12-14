@@ -7,6 +7,14 @@ single: true
 <article class="hentry" role="article">
   {% include article.html %}
 
+  {% unless page.comments == false %}
+  <section>
+    <h2>Comments</h2>
+    {% include custom/facebook_comments.html %}
+    <div class="fb-comments" data-href="{{ site.url }}{{ page.url}}"  data-num-posts="{{ site.facebook_comments.num_posts }}" data-width="{{ site.facebook_comments.width }}" data-colorscheme="{{ site.facebook_comments.colorscheme }}"></div>
+  </section>
+  {% endunless %}
+
   <footer>
     <p class="meta">
       {% include post/author.html %}
@@ -26,12 +34,7 @@ single: true
     </p>
   </footer>
 </article>
-{% unless page.comments == false %}
-  <section>
-    <h1>Comments</h1>
-    <div id="facebook_comments" aria-live="polite">{% include custom/facebook_comments.html %}</div>
-  </section>
-{% endunless %}
+
 </div>
 {% unless page.sidebar == false %}
 <aside class="sidebar">
