@@ -4,7 +4,7 @@
   <title><![CDATA[Ken and Ana's Travel Blog =)]]></title>
   <link href="http://Ken-B.github.io/atom.xml" rel="self"/>
   <link href="http://Ken-B.github.io/"/>
-  <updated>2013-12-14T00:27:31-02:00</updated>
+  <updated>2013-12-14T10:50:45-02:00</updated>
   <id>http://Ken-B.github.io/</id>
   <author>
     <name><![CDATA[Ken and Ana]]></name>
@@ -171,9 +171,30 @@
 <ul>
 <li>I still have to figure out how to add facebook (app) comments</li>
 <li>and adapt the rather boring default theme</li>
-<li>Found out what the possibilities are for class name with image plugin. So far I&rsquo;ve seen <code>left</code>, <code>right</code> and <code>left half</code>. Hopefully there&rsquo;s a plugin for a picture album, don&rsquo;t want to use facebook for this (because not everyone&rsquo;s on it).</li>
+<li>Findd out what the possibilities are for class name with image plugin. So far I&rsquo;ve seen <code>left</code>, <code>right</code> and <code>left half</code>. Hopefully there&rsquo;s a plugin for a picture album, don&rsquo;t want to use facebook for this (because not everyone&rsquo;s on it).</li>
+<li>Get the render_index_map working from jekyll-mapping. So far I&rsquo;ve used the fork of <code>throughnothing</code>, but this does not include the full index map.</li>
 </ul>
 
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[It's a Small World]]></title>
+    <link href="http://Ken-B.github.io/blog/2013/12/06/its-a-small-world/"/>
+    <updated>2013-12-06T00:45:09-02:00</updated>
+    <id>http://Ken-B.github.io/blog/2013/12/06/its-a-small-world</id>
+    <content type="html"><![CDATA[<p>Some experiences we had in Buenos Aires really made convinced again that is really (really!) is a small world. Besides the <a href="http://en.wikipedia.org/wiki/Small-world_network">interesting mathematical properties</a>, a small world always takes you by surprise and gets a smile on your face just thinking about it.</p>
+
+<p>Here our three examples in a single week!</p>
+
+<ul>
+<li>Before leaving for the trip, I went on a long-overdue weekend trip to Madrid to meet my friends from Best there. Perhaps it&rsquo;s the least of the small-world experience, but it turned out they were also heading for Argentina during our stay there! We met up for dinner and later again for coffee in Buenos Aires, just to show that distances only exist in our head. (pics below :)</li>
+<li>For the third car we were about to buy (the first one didn&rsquo;t go through because of some differences, the second one sold while we were on the plane :/ ) we had a good contact with a Tsjech couple on their way to Buenos Aires. However, on a camping a few days before they sold it to some German couple :( Anyway, guess who turned up in our AirBnB to stay in the second room a few days later. Yup, the same Tsjech couple, who actually parked the van in front as they were doing the paperwork a few days later. In a 14 million souls big city, that makes a small world.</li>
+<li>And for the best one: While ordering lunch in a small bar in San Telmo, numblessly watching football on TV, a girl walked by and I couldn&rsquo;t stop myself from yelling: &ldquo;Lisa!&rdquo;. She was a girl who spent a year or so in my class in high school. Appartently she was spending some months in Argentina and we talked for like 2 minutes (which is more than we did in the whole of high school ;). She was more surprised that I recognized here than that she walked into the same little bar at the other side of the globe where I was waiting for my crappy hamburger. Interesting&hellip;</li>
+</ul>
+
+
+<p><img src="http://Ken-B.github.io/images/DSC00337.JPG"></p>
 ]]></content>
   </entry>
   
