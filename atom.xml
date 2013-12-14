@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Ken and Ana's Travel Blog =)]]></title>
-  <link href="http://Ken-B.github.io/atom.xml" rel="self"/>
-  <link href="http://Ken-B.github.io/"/>
-  <updated>2013-12-14T10:50:45-02:00</updated>
-  <id>http://Ken-B.github.io/</id>
+  <link href="http://ken-b.github.io/atom.xml" rel="self"/>
+  <link href="http://ken-b.github.io/"/>
+  <updated>2013-12-14T19:26:33-02:00</updated>
+  <id>http://ken-b.github.io/</id>
   <author>
     <name><![CDATA[Ken and Ana]]></name>
     
@@ -14,25 +14,34 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Gallery_test]]></title>
+    <link href="http://ken-b.github.io/blog/2013/12/14/gallery-test/"/>
+    <updated>2013-12-14T16:31:08-02:00</updated>
+    <id>http://ken-b.github.io/blog/2013/12/14/gallery-test</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[First Day at the Beach]]></title>
-    <link href="http://Ken-B.github.io/blog/2013/12/13/first-day-at-the-beach/"/>
+    <link href="http://ken-b.github.io/blog/2013/12/13/first-day-at-the-beach/"/>
     <updated>2013-12-13T18:23:57-02:00</updated>
-    <id>http://Ken-B.github.io/blog/2013/12/13/first-day-at-the-beach</id>
+    <id>http://ken-b.github.io/blog/2013/12/13/first-day-at-the-beach</id>
     <content type="html"><![CDATA[<p>After 10 days of travelling, we spent our first hours at the beach this afternoon. And a nice one it was. So nice we forgot to take pictures :)</p>
 
 <p>However, this makes the perfect excuse to start testing this Blog&rsquo;s mapping feature. If all goes well, you should see below the location of the beach we were on. Fingers crossed!</p>
 
-<p>PS: check out some older post below, I will retroactively start putting some stories of last week (yeah, it&rsquo;s cheating a bit :P)</p>
+<p>PS: check out some older post below, I will retroactively start putting some stories of last week (yeah, it&rsquo;s cheating a bit, I know :P)</p>
 
-<p><em>edit: you only see the map when clicking on the blog post title. Something to fix later :)</em></p>
+<p><em>click on the blog post title to see the map.</em></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Bloggin Software (Boring :)]]></title>
-    <link href="http://Ken-B.github.io/blog/2013/12/12/bloggin-software-boring/"/>
+    <link href="http://ken-b.github.io/blog/2013/12/12/bloggin-software-boring/"/>
     <updated>2013-12-12T00:00:00-02:00</updated>
-    <id>http://Ken-B.github.io/blog/2013/12/12/bloggin-software-boring</id>
+    <id>http://ken-b.github.io/blog/2013/12/12/bloggin-software-boring</id>
     <content type="html"><![CDATA[<p><em>This is just a post for me to use later in case I lose my laptop (let&rsquo;s hope that doesn&rsquo;t happen <a href="http://xkcd.com/541/">:)</a></em></p>
 
 <!-- more -->
@@ -160,11 +169,17 @@
 <pre><code>rake gen_deploy
 </code></pre>
 
+<h3>Mapping</h3>
+
+<p>I used the forekd <a href="http://matthewowen.github.com/jekyll-mapping/">jekyll-mapping</a> from <a href="https://github.com/throughnothing/jekyll-mapping">throughnothing</a>. I added an <code>if context['page']['mapping']['show']</code> statement in the ruby script (my first ruby coding ever!) to have the map only show when an extra subkey <code>show</code> is defined for the <code>mapping</code> key in YML of the post.</p>
+
 <h3>Troubleshooting</h3>
 
-<p>If it does not seem to update, try <code>jekyll serve</code>, which has more debugging output (I found out after misusing the image tag and not seeing the site update).</p>
+<p>If it does not seem to update, try <code>jekyll serve --trace</code>, which has more debugging output (I found out after misusing the image tag and not seeing the site update).</p>
 
 <p>Also, don&rsquo;t use tabs in the YML header of your posts, only spaces to indent (that&rsquo;s about 1h of my life I won&rsquo;t get back :\ )</p>
+
+<p>The fancyimage_tab.rb jekyll plugin requires an extra gem <code>mini_magick</code>. ITherefore, in the <code>Gemfile</code> in the root directory, add <code>gem 'mini_magic'</code> at the bottom.</p>
 
 <h1>TODO</h1>
 
@@ -180,29 +195,29 @@
   
   <entry>
     <title type="html"><![CDATA[It's a Small World]]></title>
-    <link href="http://Ken-B.github.io/blog/2013/12/06/its-a-small-world/"/>
+    <link href="http://ken-b.github.io/blog/2013/12/06/its-a-small-world/"/>
     <updated>2013-12-06T00:45:09-02:00</updated>
-    <id>http://Ken-B.github.io/blog/2013/12/06/its-a-small-world</id>
-    <content type="html"><![CDATA[<p>Some experiences we had in Buenos Aires really made convinced again that is really (really!) is a small world. Besides the <a href="http://en.wikipedia.org/wiki/Small-world_network">interesting mathematical properties</a>, a small world always takes you by surprise and gets a smile on your face just thinking about it.</p>
+    <id>http://ken-b.github.io/blog/2013/12/06/its-a-small-world</id>
+    <content type="html"><![CDATA[<p>Some experiences we had in Buenos Aires really convinced me again that it really (really!) is a small world. Besides the <a href="http://en.wikipedia.org/wiki/Small-world_network">interesting mathematical properties</a>, a small world always takes you by surprise and gets a smile on your face just thinking about it.</p>
 
 <p>Here our three examples in a single week!</p>
 
 <ul>
-<li>Before leaving for the trip, I went on a long-overdue weekend trip to Madrid to meet my friends from Best there. Perhaps it&rsquo;s the least of the small-world experience, but it turned out they were also heading for Argentina during our stay there! We met up for dinner and later again for coffee in Buenos Aires, just to show that distances only exist in our head. (pics below :)</li>
-<li>For the third car we were about to buy (the first one didn&rsquo;t go through because of some differences, the second one sold while we were on the plane :/ ) we had a good contact with a Tsjech couple on their way to Buenos Aires. However, on a camping a few days before they sold it to some German couple :( Anyway, guess who turned up in our AirBnB to stay in the second room a few days later. Yup, the same Tsjech couple, who actually parked the van in front as they were doing the paperwork a few days later. In a 14 million souls big city, that makes a small world.</li>
-<li>And for the best one: While ordering lunch in a small bar in San Telmo, numblessly watching football on TV, a girl walked by and I couldn&rsquo;t stop myself from yelling: &ldquo;Lisa!&rdquo;. She was a girl who spent a year or so in my class in high school. Appartently she was spending some months in Argentina and we talked for like 2 minutes (which is more than we did in the whole of high school ;). She was more surprised that I recognized here than that she walked into the same little bar at the other side of the globe where I was waiting for my crappy hamburger. Interesting&hellip;</li>
+<li>Before leaving for the trip, I went on a long-overdue weekend trip to Madrid to meet my friends from BEST there. Perhaps it&rsquo;s the least of the small-world experience, but it turned out they were also heading for Argentina and right during our stay there! We met up for dinner and later again for coffee in Buenos Aires, just to show that distances only exist in our head. (picture below :)</li>
+<li>For the third car we were about to buy (the first one didn&rsquo;t go through because of some differences, the second one was sold while we were on the plane :/ ) we had a good contact with a Tsjech couple on their way to Buenos Aires. However, on a camping a few days before they sold it to some German couple :( Anyway, guess who turned up in our AirBnB to stay in the second room a few days later. Yup, the same Tsjech couple, who actually parked the van in front as they were doing the paperwork a few days later. In a 14 million souls big city, that makes a small world and some irony too.</li>
+<li>And for the best one: While ordering lunch in a small bar in San Telmo, numblessly watching football on TV, a girl walked by and I couldn&rsquo;t stop myself from yelling: &ldquo;Lisa!&rdquo;. She was a girl who spent a year or so in my class in high school. Appartently she was spending some months in Argentina and we talked for like 2 minutes (which is more than we did in the whole of high school ;). She was more surprised that I recognized her than that she walked into the same little bar at the other side of the globe where I was waiting for my crappy hamburger. Interesting&hellip;</li>
 </ul>
 
 
-<p><img src="http://Ken-B.github.io/images/DSC00337.JPG"></p>
+<p><img src="http://ken-b.github.io/images/DSC00337.JPG"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Buenos Aires First Impressions]]></title>
-    <link href="http://Ken-B.github.io/blog/2013/12/04/buenos-aires-impressions/"/>
+    <link href="http://ken-b.github.io/blog/2013/12/04/buenos-aires-impressions/"/>
     <updated>2013-12-04T00:00:00-02:00</updated>
-    <id>http://Ken-B.github.io/blog/2013/12/04/buenos-aires-impressions</id>
+    <id>http://ken-b.github.io/blog/2013/12/04/buenos-aires-impressions</id>
     <content type="html"><![CDATA[<p>Allright, and now for them stories :)</p>
 
 <p>I tried to have Ana write a bit here, but this post just shows my power of conviction.</p>
@@ -222,7 +237,7 @@
 </ul>
 
 
-<p><img class="bottom" src="http://Ken-B.github.io/images/DSC00150.JPG"></p>
+<p><img class="bottom" src="http://ken-b.github.io/images/DSC00150.JPG"></p>
 
 <p>I guess by now you&rsquo;re figuring out that I am backdating some of this stuff. We&rsquo;re currently in Uruguay (13th), but as a sort of logbook for later I&rsquo;ll be cheating with the dates. Consufing, right?</p>
 ]]></content>
@@ -230,22 +245,22 @@
   
   <entry>
     <title type="html"><![CDATA[And This Is Us]]></title>
-    <link href="http://Ken-B.github.io/blog/2013/12/03/and-this-is-us/"/>
+    <link href="http://ken-b.github.io/blog/2013/12/03/and-this-is-us/"/>
     <updated>2013-12-03T00:00:00-02:00</updated>
-    <id>http://Ken-B.github.io/blog/2013/12/03/and-this-is-us</id>
+    <id>http://ken-b.github.io/blog/2013/12/03/and-this-is-us</id>
     <content type="html"><![CDATA[<p>Well, here we are just arriving in Buenos Aires after a long plane ride. I&rsquo;ve got some catching up to do with the blog, so this is just the picture.</p>
 
 <p>Stories are soon to follow :)</p>
 
-<p><img src="http://Ken-B.github.io/images/DSC00140-001.JPG"></p>
+<p><img src="http://ken-b.github.io/images/DSC00140-001.JPG"></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Our First Post]]></title>
-    <link href="http://Ken-B.github.io/blog/2013/12/02/our-first-post/"/>
+    <link href="http://ken-b.github.io/blog/2013/12/02/our-first-post/"/>
     <updated>2013-12-02T00:00:00-02:00</updated>
-    <id>http://Ken-B.github.io/blog/2013/12/02/our-first-post</id>
+    <id>http://ken-b.github.io/blog/2013/12/02/our-first-post</id>
     <content type="html"><![CDATA[<h2>Let&rsquo;s get this Blog started :)</h2>
 
 <p>This here is the song we were listening to while planning and packing and stressing and dancing and &hellip; before we set off on our adventure:</p>

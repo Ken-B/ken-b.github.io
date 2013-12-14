@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://Ken-B.github.io/our-travel-map">
+  <link rel="canonical" href="http://ken-b.github.io/our-travel-map">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Ken and Ana's Travel Blog =)" type="application/atom+xml">
@@ -30,6 +30,19 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
+<!-- Fix FancyBox style for OctoPress -->
+<style type="text/css">
+  .fancybox-wrap { position: fixed !important; }
+  .fancybox-opened {
+    -webkit-border-radius: 4px !important;
+       -moz-border-radius: 4px !important;
+            border-radius: 4px !important;
+  }
+  .fancybox-close, .fancybox-prev span, .fancybox-next span {
+    background-color: transparent !important;
+    border: 0 !important;
+  }
+</style>
 
   
   <script type="text/javascript">
@@ -139,6 +152,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2013/12/14/gallery-test/">Gallery_test</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2013/12/13/first-day-at-the-beach/">First Day at the Beach</a>
       </li>
     
@@ -172,8 +189,7 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Ken and Ana -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  Copyright &copy; 2013 - Ken and Ana
 </p>
 
 </footer>

@@ -1,43 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://Ken-B.github.io/blog/2013/12/02/our-first-post/</loc>
-        <lastmod>2013-12-14T00:24:26-02:00</lastmod>
+        <loc>http://ken-b.github.io/blog/2013/12/02/our-first-post/</loc>
+        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
     </url>
     <url>
-        <loc>http://Ken-B.github.io/blog/2013/12/03/and-this-is-us/</loc>
-        <lastmod>2013-12-14T00:24:26-02:00</lastmod>
+        <loc>http://ken-b.github.io/blog/2013/12/03/and-this-is-us/</loc>
+        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
     </url>
     <url>
-        <loc>http://Ken-B.github.io/blog/2013/12/04/buenos-aires-impressions/</loc>
-        <lastmod>2013-12-14T00:24:26-02:00</lastmod>
+        <loc>http://ken-b.github.io/blog/2013/12/04/buenos-aires-impressions/</loc>
+        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
     </url>
     <url>
-        <loc>http://Ken-B.github.io/blog/2013/12/06/its-a-small-world/</loc>
-        <lastmod>2013-12-14T10:49:37-02:00</lastmod>
+        <loc>http://ken-b.github.io/blog/2013/12/06/its-a-small-world/</loc>
+        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
     </url>
     <url>
-        <loc>http://Ken-B.github.io/blog/2013/12/12/bloggin-software-boring/</loc>
-        <lastmod>2013-12-14T00:34:40-02:00</lastmod>
+        <loc>http://ken-b.github.io/blog/2013/12/12/bloggin-software-boring/</loc>
+        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
     </url>
     <url>
-        <loc>http://Ken-B.github.io/blog/2013/12/13/first-day-at-the-beach/</loc>
-        <lastmod>2013-12-14T00:27:10-02:00</lastmod>
+        <loc>http://ken-b.github.io/blog/2013/12/13/first-day-at-the-beach/</loc>
+        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
     </url>
     <url>
-        <loc>http://Ken-B.github.io/blog/archives/</loc>
-        <lastmod>2013-12-14T10:49:37-02:00</lastmod>
+        <loc>http://ken-b.github.io/blog/2013/12/14/gallery-test/</loc>
+        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
     </url>
     <url>
-        <loc>http://Ken-B.github.io/</loc>
-        <lastmod>2013-12-14T10:49:37-02:00</lastmod>
+        <loc>http://ken-b.github.io/blog/archives/</loc>
+        <lastmod>2013-12-14T18:50:37-02:00</lastmod>
     </url>
     <url>
-        <loc>http://Ken-B.github.io/our-travel-map/</loc>
+        <loc>http://ken-b.github.io/</loc>
+        <lastmod>2013-12-14T18:50:37-02:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ken-b.github.io/our-travel-map/</loc>
         <lastmod>2013-12-14T00:23:25-02:00</lastmod>
     </url>
     <url>
-        <loc>http://Ken-B.github.io/robots.txt</loc>
+        <loc>http://ken-b.github.io/robots.txt</loc>
         <lastmod>2013-12-12T22:51:10-02:00</lastmod>
     </url>
 </urlset>

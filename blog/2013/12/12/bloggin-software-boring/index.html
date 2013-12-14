@@ -9,7 +9,7 @@
   <meta name="author" content="Ken and Ana">
 
   
-  <meta name="description" content="This is just a post for me to use later in case I lose my laptop (let&rsquo;s hope that doesn&rsquo;t happen :) Setup Blogging with Octopress Install &hellip;">
+  <meta name="description" content="Bloggin Software (Boring :) Dec 12th, 2013 This is just a post for me to use later in case I lose my laptop (let&rsquo;s hope that doesn&rsquo;t &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -18,7 +18,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   
-  <link rel="canonical" href="http://Ken-B.github.io/blog/2013/12/12/bloggin-software-boring">
+  <link rel="canonical" href="http://ken-b.github.io/blog/2013/12/12/bloggin-software-boring">
   <link href="/favicon.png" rel="icon">
   <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css">
   <link href="/atom.xml" rel="alternate" title="Ken and Ana's Travel Blog =)" type="application/atom+xml">
@@ -30,6 +30,19 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
+<!-- Fix FancyBox style for OctoPress -->
+<style type="text/css">
+  .fancybox-wrap { position: fixed !important; }
+  .fancybox-opened {
+    -webkit-border-radius: 4px !important;
+       -moz-border-radius: 4px !important;
+            border-radius: 4px !important;
+  }
+  .fancybox-close, .fancybox-prev span, .fancybox-next span {
+    background-color: transparent !important;
+    border: 0 !important;
+  }
+</style>
 
   
   <script type="text/javascript">
@@ -224,11 +237,17 @@
 <pre><code>rake gen_deploy
 </code></pre>
 
+<h3>Mapping</h3>
+
+<p>I used the forekd <a href="http://matthewowen.github.com/jekyll-mapping/">jekyll-mapping</a> from <a href="https://github.com/throughnothing/jekyll-mapping">throughnothing</a>. I added an <code>if context['page']['mapping']['show']</code> statement in the ruby script (my first ruby coding ever!) to have the map only show when an extra subkey <code>show</code> is defined for the <code>mapping</code> key in YML of the post.</p>
+
 <h3>Troubleshooting</h3>
 
-<p>If it does not seem to update, try <code>jekyll serve</code>, which has more debugging output (I found out after misusing the image tag and not seeing the site update).</p>
+<p>If it does not seem to update, try <code>jekyll serve --trace</code>, which has more debugging output (I found out after misusing the image tag and not seeing the site update).</p>
 
 <p>Also, don&rsquo;t use tabs in the YML header of your posts, only spaces to indent (that&rsquo;s about 1h of my life I won&rsquo;t get back :\ )</p>
+
+<p>The fancyimage_tab.rb jekyll plugin requires an extra gem <code>mini_magick</code>. ITherefore, in the <code>Gemfile</code> in the root directory, add <code>gem 'mini_magic'</code> at the bottom.</p>
 
 <h1>TODO</h1>
 
@@ -242,7 +261,28 @@
 </div>
 
 
+
+
+
   
+  <section>
+    <h2>Comments</h2>
+    <div id="fb-root"></div>
+<script>
+    (function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=372304869580104";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+</script>
+
+
+    <div class="fb-comments" data-href="http://ken-b.github.io/blog/2013/12/12/bloggin-software-boring/"  data-num-posts="5" data-width="580" data-colorscheme="light"></div>
+  </section>
+  
+
   <footer>
     <p class="meta">
       
@@ -297,6 +337,10 @@
   <ul id="recent_posts">
     
       <li class="post">
+        <a href="/blog/2013/12/14/gallery-test/">Gallery_test</a>
+      </li>
+    
+      <li class="post">
         <a href="/blog/2013/12/13/first-day-at-the-beach/">First Day at the Beach</a>
       </li>
     
@@ -330,8 +374,7 @@
     </div>
   </div>
   <footer role="contentinfo"><p>
-  Copyright &copy; 2013 - Ken and Ana -
-  <span class="credit">Powered by <a href="http://octopress.org">Octopress</a></span>
+  Copyright &copy; 2013 - Ken and Ana
 </p>
 
 </footer>

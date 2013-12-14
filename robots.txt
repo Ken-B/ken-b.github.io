@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://Ken-B.github.io/sitemap.xml 
+Sitemap: http://ken-b.github.io/sitemap.xml 
