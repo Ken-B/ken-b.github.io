@@ -63,6 +63,16 @@ default_asides: [asides/recent_posts.html]
 #   3rd Party Settings    #
 # ----------------------- #
 
+# added 14/12/2013 for facebook comments (adapted from jekyllbootstrap)
+facebook_comments:
+  appid : 372304869580104
+  num_posts: 5
+  width: 580
+  colorscheme: light 
+
+# added 14/12/2013 for fancyimage_tab
+photos_prefix: /images
+
 # added 13/12/2013, maps location for jekyll-mapping
 
 mapping:

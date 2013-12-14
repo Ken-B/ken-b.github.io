@@ -7,6 +7,7 @@ comments: true
 mapping:
     latitude: -34.609861
     longitude: -58.390221
+    zoom: 13
 ---
 
 Well, here we are just arriving in Buenos Aires after a long plane ride. I've got some catching up to do with the blog, so this is just the picture. 

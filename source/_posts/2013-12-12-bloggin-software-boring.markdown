@@ -104,15 +104,19 @@ If you're happy with the preview result, run
 
 ### Troubleshooting
 
-If it does not seem to update, try `jekyll serve`, which has more debugging output (I found out after misusing the image tag and not seeing the site update).
+If it does not seem to update, try `jekyll serve --trace`, which has more debugging output (I found out after misusing the image tag and not seeing the site update).
 
 Also, don't use tabs in the YML header of your posts, only spaces to indent (that's about 1h of my life I won't get back :\ )
+
+The fancyimage_tab.rb jekyll plugin requires an extra gem `mini_magick`. ITherefore, in the `Gemfile` in the root directory, add `gem 'mini_magic'` at the bottom.
 
 # TODO
 
 * I still have to figure out how to add facebook (app) comments
 * and adapt the rather boring default theme
-* Found out what the possibilities are for class name with image plugin. So far I've seen `left`, `right` and `left half`. Hopefully there's a plugin for a picture album, don't want to use facebook for this (because not everyone's on it).
+* Findd out what the possibilities are for class name with image plugin. So far I've seen `left`, `right` and `left half`. Hopefully there's a plugin for a picture album, don't want to use facebook for this (because not everyone's on it).
+* Get the render_index_map working from jekyll-mapping. So far I've used the fork of `throughnothing`, but this does not include the full index map. 
+
 
 [terminal]: http://en.wikipedia.org/wiki/System_console
 [Octopress]: http://octopress.org

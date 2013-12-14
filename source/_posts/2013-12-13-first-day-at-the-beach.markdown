@@ -12,6 +12,6 @@ After 10 days of travelling, we spent our first hours at the beach this afternoo
 
 However, this makes the perfect excuse to start testing this Blog's mapping feature. If all goes well, you should see below the location of the beach we were on. Fingers crossed!
 
-PS: check out some older post below, I will retroactively start putting some stories of last week (yeah, it's cheating a bit :P)
+PS: check out some older post below, I will retroactively start putting some stories of last week (yeah, it's cheating a bit, I know :P)
 
-*edit: you only see the map when clicking on the blog post title. Something to fix later :)*
+*click on the blog post title to see the map.*
