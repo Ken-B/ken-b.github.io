@@ -102,6 +102,10 @@ If you're happy with the preview result, run
 
 	rake gen_deploy
 
+### Mapping
+
+I used the forekd [jekyll-mapping](http://matthewowen.github.com/jekyll-mapping/) from [throughnothing](https://github.com/throughnothing/jekyll-mapping). I added an `if context['page']['mapping']['show']` statement in the ruby script (my first ruby coding ever!) to have the map only show when an extra subkey `show` is defined for the `mapping` key in YML of the post.
+
 ### Troubleshooting
 
 If it does not seem to update, try `jekyll serve --trace`, which has more debugging output (I found out after misusing the image tag and not seeing the site update).

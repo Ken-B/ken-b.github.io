@@ -5,6 +5,7 @@ date: 2013-12-13 18:23:57 -0200
 mapping: 
     latitude: -34.445671
     longitude: -57.857977
+    show: true
 comments: true
 ---
 

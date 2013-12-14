@@ -25,31 +25,33 @@ module Jekyll
             super
         end
 
-        def render(context)
+        def render(context)            
             if context['page']['mapping']
-                latitude = context['page']['mapping']['latitude']
-                longitude = context['page']['mapping']['longitude']
-                layers = context['page']['mapping']['layers']
-                locations = context['page']['mapping']['locations']
-                zoom = context['page']['mapping'].has_key?('zoom') ? context['page']['mapping']['zoom'] : @zoom
-                if layers
-                    layers = layers.map { |i| i.to_s }.join(" ")
-                end
-                if locations
-                    locations = locations.map { |i| i.to_s }.join(" ")
-                end
+                if context['page']['mapping']['show']
+                    latitude = context['page']['mapping']['latitude']
+                    longitude = context['page']['mapping']['longitude']
+                    layers = context['page']['mapping']['layers']
+                    locations = context['page']['mapping']['locations']
+                    zoom = context['page']['mapping'].has_key?('zoom') ? context['page']['mapping']['zoom'] : @zoom
+                    if layers
+                        layers = layers.map { |i| i.to_s }.join(" ")
+                    end
+                    if locations
+                        locations = locations.map { |i| i.to_s }.join(" ")
+                    end
 
-                if @engine == 'google_static'
-                    return "<img src=\"http://maps.googleapis.com/maps/api/staticmap?markers=#{latitude},#{longitude}&size=#{@width}x#{@height}&zoom=#{@zoom}&sensor=false\">"
-                elsif (@engine == 'google_js') || (@engine == 'openstreetmap')
-                    return "<div class=\"jekyll-mapping\"
-                        data-latitude=\"#{latitude}\"
-                        data-longitude=\"#{longitude}\"
-                        data-layers=\"#{layers}\"
-                        data-locations=\"#{locations}\"
-                        data-title=\"#{context['page']['title']}\"
-                        data-zoom=\"#{zoom}\"
-                        style=\"height:#{@height}px;width:#{@width}px;\"></div>"
+                    if @engine == 'google_static'
+                        return "<img src=\"http://maps.googleapis.com/maps/api/staticmap?markers=#{latitude},#{longitude}&size=#{@width}x#{@height}&zoom=#{@zoom}&sensor=false\">"
+                    elsif (@engine == 'google_js') || (@engine == 'openstreetmap')
+                        return "<div class=\"jekyll-mapping\"
+                            data-latitude=\"#{latitude}\"
+                            data-longitude=\"#{longitude}\"
+                            data-layers=\"#{layers}\"
+                            data-locations=\"#{locations}\"
+                            data-title=\"#{context['page']['title']}\"
+                            data-zoom=\"#{zoom}\"
+                            style=\"height:#{@height}px;width:#{@width}px;\"></div>"
+                    end
                 end
             end
         end
