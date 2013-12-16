@@ -116,10 +116,10 @@ The fancyimage_tab.rb jekyll plugin requires an extra gem `mini_magick`. ITheref
 
 # TODO
 
-* I still have to figure out how to add facebook (app) comments
-* and adapt the rather boring default theme
-* Findd out what the possibilities are for class name with image plugin. So far I've seen `left`, `right` and `left half`. Hopefully there's a plugin for a picture album, don't want to use facebook for this (because not everyone's on it).
+* Adapt the rather boring default theme
+* Find out what the possibilities are for class name with image plugin. So far I've seen `left`, `right` and `left half`. Hopefully there's a plugin for a picture album, don't want to use facebook for this (because not everyone's on it).
 * Get the render_index_map working from jekyll-mapping. So far I've used the fork of `throughnothing`, but this does not include the full index map. 
+* Get the gallery working. For fancyimage, I think fancybox still needs to be installed. Ideally, just putting images in a subfolder of /images/galleries would resize them, make a gallery with title from image name and optional thumbnail size. < nice_gallery gallery_folder_name [thumbnail size] > or something.
 
 
 [terminal]: http://en.wikipedia.org/wiki/System_console
