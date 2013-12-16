@@ -1,11 +1,15 @@
 ---
 layout: post
-title: "gallery_test"
-date: 2013-12-14 16:31:08 -0200
-comments: true
+title: "Don't you know that it's all happening at the ..."
+date: 2013-12-05 
 published: true
+mapping: 
+  latitude: -34.580984
+  longitude: -58.419911
 ---
 
-Allright, let's see if we can get a picture gallery up and running :)
+Finally got a picture gallery up and running. Together with Facebook comments, [Andrea](https://www.facebook.com/andrea.hajdar) should be happy now :)
 
 {{'BA_zoo' | image_list}}
+
+{% youtube cPMyItDcgG8 %}

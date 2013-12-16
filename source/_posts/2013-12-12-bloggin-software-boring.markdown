@@ -112,15 +112,13 @@ If it does not seem to update, try `jekyll serve --trace`, which has more debugg
 
 Also, don't use tabs in the YML header of your posts, only spaces to indent (that's about 1h of my life I won't get back :\ )
 
-The fancyimage_tab.rb jekyll plugin requires an extra gem `mini_magick`. ITherefore, in the `Gemfile` in the root directory, add `gem 'mini_magic'` at the bottom.
+I tried fancyimage_tab.rb jekyll plugin, the old gallery_tab plugin, img_popup and some custom mix of the latter, none of which got working nicely. Finally I followed a German [blog](http://uli-heller.github.io/blog/2013/08/04/gallery/) and all went smoothly. They are efficient, ze germanz.
 
 # TODO
 
 * Adapt the rather boring default theme
 * Find out what the possibilities are for class name with image plugin. So far I've seen `left`, `right` and `left half`. Hopefully there's a plugin for a picture album, don't want to use facebook for this (because not everyone's on it).
 * Get the render_index_map working from jekyll-mapping. So far I've used the fork of `throughnothing`, but this does not include the full index map. 
-* Get the gallery working. For fancyimage, I think fancybox still needs to be installed. Ideally, just putting images in a subfolder of /images/galleries would resize them, make a gallery with title from image name and optional thumbnail size. < nice_gallery gallery_folder_name [thumbnail size] > or something.
-
 
 [terminal]: http://en.wikipedia.org/wiki/System_console
 [Octopress]: http://octopress.org
