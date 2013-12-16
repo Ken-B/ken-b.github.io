@@ -4,7 +4,7 @@
   <title><![CDATA[Ken and Ana's Travel Blog =)]]></title>
   <link href="http://ken-b.github.io/atom.xml" rel="self"/>
   <link href="http://ken-b.github.io/"/>
-  <updated>2013-12-14T20:56:47-02:00</updated>
+  <updated>2013-12-16T11:41:31-03:00</updated>
   <id>http://ken-b.github.io/</id>
   <author>
     <name><![CDATA[Ken and Ana]]></name>
@@ -14,9 +14,26 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Back in BA]]></title>
+    <link href="http://ken-b.github.io/blog/2013/12/16/back-in-ba/"/>
+    <updated>2013-12-16T11:27:05-03:00</updated>
+    <id>http://ken-b.github.io/blog/2013/12/16/back-in-ba</id>
+    <content type="html"><![CDATA[<p>We&rsquo;re back in Buenos Aires after a nice couple of days in laid-back Uruguay (pics will follow once I get this gallery plugin working, grr..).</p>
+
+<p><img class="left" src="http://ken-b.github.io/images/BA_weather_20131216.PNG"> Back in the huge city where people drive crazy but are oh so friendly and, boy, is it hot! Last night we went for drinks and dinner with a nice Czech couple Jana and Petr. We got some car and travel tips and in return bought the dessert (Taratella) for Ana&rsquo;s birthday :P</p>
+
+<p>We were expecting Andi, our German seller, to arrive today but he had to have his light fixed and is hopefully coming tomorrow. Fingers crossed.</p>
+
+<p>Also called the Argentinian importer of Art and Lutherie guitars on which shops sell them, only to found out that due to Government import restrictions, they are nowhere to be found. Indeed, the guitar shops here have a lousy selection. I&rsquo;ll just have to wait to buy a little guitar until Chili.</p>
+
+<p>PS: Ana still hasn&rsquo;t written anything yet on the blog, but promised to do so promptly :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[First Day at the Beach]]></title>
     <link href="http://ken-b.github.io/blog/2013/12/13/first-day-at-the-beach/"/>
-    <updated>2013-12-13T18:23:57-02:00</updated>
+    <updated>2013-12-13T17:23:57-03:00</updated>
     <id>http://ken-b.github.io/blog/2013/12/13/first-day-at-the-beach</id>
     <content type="html"><![CDATA[<p>After 10 days of travelling, we spent our first hours at the beach this afternoon. And a nice one it was. So nice we forgot to take pictures :)</p>
 
@@ -31,7 +48,7 @@
   <entry>
     <title type="html"><![CDATA[Bloggin Software (Boring :)]]></title>
     <link href="http://ken-b.github.io/blog/2013/12/12/bloggin-software-boring/"/>
-    <updated>2013-12-12T00:00:00-02:00</updated>
+    <updated>2013-12-12T00:00:00-03:00</updated>
     <id>http://ken-b.github.io/blog/2013/12/12/bloggin-software-boring</id>
     <content type="html"><![CDATA[<p><em>This is just a post for me to use later in case I lose my laptop (let&rsquo;s hope that doesn&rsquo;t happen <a href="http://xkcd.com/541/">:)</a></em></p>
 
@@ -175,10 +192,10 @@
 <h1>TODO</h1>
 
 <ul>
-<li>I still have to figure out how to add facebook (app) comments</li>
-<li>and adapt the rather boring default theme</li>
-<li>Findd out what the possibilities are for class name with image plugin. So far I&rsquo;ve seen <code>left</code>, <code>right</code> and <code>left half</code>. Hopefully there&rsquo;s a plugin for a picture album, don&rsquo;t want to use facebook for this (because not everyone&rsquo;s on it).</li>
+<li>Adapt the rather boring default theme</li>
+<li>Find out what the possibilities are for class name with image plugin. So far I&rsquo;ve seen <code>left</code>, <code>right</code> and <code>left half</code>. Hopefully there&rsquo;s a plugin for a picture album, don&rsquo;t want to use facebook for this (because not everyone&rsquo;s on it).</li>
 <li>Get the render_index_map working from jekyll-mapping. So far I&rsquo;ve used the fork of <code>throughnothing</code>, but this does not include the full index map.</li>
+<li>Get the gallery working. For fancyimage, I think fancybox still needs to be installed. Ideally, just putting images in a subfolder of /images/galleries would resize them, make a gallery with title from image name and optional thumbnail size. &lt; nice_gallery gallery_folder_name [thumbnail size] > or something.</li>
 </ul>
 
 ]]></content>
@@ -186,9 +203,9 @@
   
   <entry>
     <title type="html"><![CDATA[It's a Small World]]></title>
-    <link href="http://ken-b.github.io/blog/2013/12/06/its-a-small-world/"/>
-    <updated>2013-12-06T00:45:09-02:00</updated>
-    <id>http://ken-b.github.io/blog/2013/12/06/its-a-small-world</id>
+    <link href="http://ken-b.github.io/blog/2013/12/05/its-a-small-world/"/>
+    <updated>2013-12-05T23:45:09-03:00</updated>
+    <id>http://ken-b.github.io/blog/2013/12/05/its-a-small-world</id>
     <content type="html"><![CDATA[<p>Some experiences we had in Buenos Aires really convinced me again that it really (really!) is a small world. Besides the <a href="http://en.wikipedia.org/wiki/Small-world_network">interesting mathematical properties</a>, a small world always takes you by surprise and gets a smile on your face just thinking about it.</p>
 
 <p>Here our three examples in a single week!</p>
@@ -207,7 +224,7 @@
   <entry>
     <title type="html"><![CDATA[Buenos Aires First Impressions]]></title>
     <link href="http://ken-b.github.io/blog/2013/12/04/buenos-aires-impressions/"/>
-    <updated>2013-12-04T00:00:00-02:00</updated>
+    <updated>2013-12-04T00:00:00-03:00</updated>
     <id>http://ken-b.github.io/blog/2013/12/04/buenos-aires-impressions</id>
     <content type="html"><![CDATA[<p>Allright, and now for them stories :)</p>
 
@@ -237,7 +254,7 @@
   <entry>
     <title type="html"><![CDATA[And This Is Us]]></title>
     <link href="http://ken-b.github.io/blog/2013/12/03/and-this-is-us/"/>
-    <updated>2013-12-03T00:00:00-02:00</updated>
+    <updated>2013-12-03T00:00:00-03:00</updated>
     <id>http://ken-b.github.io/blog/2013/12/03/and-this-is-us</id>
     <content type="html"><![CDATA[<p>Well, here we are just arriving in Buenos Aires after a long plane ride. I&rsquo;ve got some catching up to do with the blog, so this is just the picture.</p>
 
@@ -250,7 +267,7 @@
   <entry>
     <title type="html"><![CDATA[Our First Post]]></title>
     <link href="http://ken-b.github.io/blog/2013/12/02/our-first-post/"/>
-    <updated>2013-12-02T00:00:00-02:00</updated>
+    <updated>2013-12-02T00:00:00-03:00</updated>
     <id>http://ken-b.github.io/blog/2013/12/02/our-first-post</id>
     <content type="html"><![CDATA[<h2>Let&rsquo;s get this Blog started :)</h2>
 

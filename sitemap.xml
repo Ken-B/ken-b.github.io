@@ -2,42 +2,46 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://ken-b.github.io/blog/2013/12/02/our-first-post/</loc>
-        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
+        <lastmod>2013-12-14T18:24:08-03:00</lastmod>
     </url>
     <url>
         <loc>http://ken-b.github.io/blog/2013/12/03/and-this-is-us/</loc>
-        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
+        <lastmod>2013-12-14T18:24:08-03:00</lastmod>
     </url>
     <url>
         <loc>http://ken-b.github.io/blog/2013/12/04/buenos-aires-impressions/</loc>
-        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
+        <lastmod>2013-12-14T18:24:08-03:00</lastmod>
     </url>
     <url>
-        <loc>http://ken-b.github.io/blog/2013/12/06/its-a-small-world/</loc>
-        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
+        <loc>http://ken-b.github.io/blog/2013/12/05/its-a-small-world/</loc>
+        <lastmod>2013-12-14T18:24:08-03:00</lastmod>
     </url>
     <url>
         <loc>http://ken-b.github.io/blog/2013/12/12/bloggin-software-boring/</loc>
-        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
+        <lastmod>2013-12-16T11:37:05-03:00</lastmod>
     </url>
     <url>
         <loc>http://ken-b.github.io/blog/2013/12/13/first-day-at-the-beach/</loc>
-        <lastmod>2013-12-14T19:24:08-02:00</lastmod>
+        <lastmod>2013-12-14T18:24:08-03:00</lastmod>
+    </url>
+    <url>
+        <loc>http://ken-b.github.io/blog/2013/12/16/back-in-ba/</loc>
+        <lastmod>2013-12-16T11:35:58-03:00</lastmod>
     </url>
     <url>
         <loc>http://ken-b.github.io/blog/archives/</loc>
-        <lastmod>2013-12-14T16:28:11-02:00</lastmod>
+        <lastmod>2013-12-16T11:37:05-03:00</lastmod>
     </url>
     <url>
         <loc>http://ken-b.github.io/</loc>
-        <lastmod>2013-12-14T16:28:11-02:00</lastmod>
+        <lastmod>2013-12-16T11:37:05-03:00</lastmod>
     </url>
     <url>
         <loc>http://ken-b.github.io/our-travel-map/</loc>
-        <lastmod>2013-12-14T00:23:25-02:00</lastmod>
+        <lastmod>2013-12-13T23:23:25-03:00</lastmod>
     </url>
     <url>
         <loc>http://ken-b.github.io/robots.txt</loc>
-        <lastmod>2013-12-12T22:51:10-02:00</lastmod>
+        <lastmod>2013-12-12T21:51:10-03:00</lastmod>
     </url>
 </urlset>
