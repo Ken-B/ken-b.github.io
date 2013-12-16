@@ -30,20 +30,6 @@
 <link href="http://fonts.googleapis.com/css?family=PT+Serif:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 <link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css">
 
-      <!-- Fix FancyBox style for OctoPress -->
-      <style type="text/css">
-        .fancybox-wrap { position: fixed !important; }
-        .fancybox-opened {
-          -webkit-border-radius: 4px !important;
-             -moz-border-radius: 4px !important;
-                  border-radius: 4px !important;
-        }
-        .fancybox-close, .fancybox-prev span, .fancybox-next span {
-          background-color: transparent !important;
-          border: 0 !important;
-        }
-      </style>
-
 
 !-- jQuery -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
@@ -259,7 +245,7 @@
 
 <p>Also, don&rsquo;t use tabs in the YML header of your posts, only spaces to indent (that&rsquo;s about 1h of my life I won&rsquo;t get back :\ )</p>
 
-<p>The fancyimage_tab.rb jekyll plugin requires an extra gem <code>mini_magick</code>. ITherefore, in the <code>Gemfile</code> in the root directory, add <code>gem 'mini_magic'</code> at the bottom.</p>
+<p>I tried fancyimage_tab.rb jekyll plugin, the old gallery_tab plugin, img_popup and some custom mix of the latter, none of which got working nicely. Finally I followed a German <a href="http://uli-heller.github.io/blog/2013/08/04/gallery/">blog</a> and all went smoothly. They are efficient, ze germanz.</p>
 
 <h1>TODO</h1>
 
@@ -267,7 +253,6 @@
 <li>Adapt the rather boring default theme</li>
 <li>Find out what the possibilities are for class name with image plugin. So far I&rsquo;ve seen <code>left</code>, <code>right</code> and <code>left half</code>. Hopefully there&rsquo;s a plugin for a picture album, don&rsquo;t want to use facebook for this (because not everyone&rsquo;s on it).</li>
 <li>Get the render_index_map working from jekyll-mapping. So far I&rsquo;ve used the fork of <code>throughnothing</code>, but this does not include the full index map.</li>
-<li>Get the gallery working. For fancyimage, I think fancybox still needs to be installed. Ideally, just putting images in a subfolder of /images/galleries would resize them, make a gallery with title from image name and optional thumbnail size. &lt; nice_gallery gallery_folder_name [thumbnail size] > or something.</li>
 </ul>
 
 </div>
@@ -362,6 +347,10 @@
     
       <li class="post">
         <a href="/blog/2013/12/05/its-a-small-world/">It's a Small World</a>
+      </li>
+    
+      <li class="post">
+        <a href="/blog/2013/12/05/gallery-test/">Don't You Know That It's All Happening at the ...</a>
       </li>
     
       <li class="post">
