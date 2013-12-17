@@ -69,8 +69,8 @@ mini_magick:
       source: images/galleries/BA_zoo
       destination: images/galleries/BA_zoo/thumbs
       commands:
-        - thumbnail: "140x140^"
-        - crop: "140x140-0x0"
+        - thumbnail: "64x48^"
+        - crop: "64x48-0x0"
     # BA_zoo_medium:
     #   source: images/galleries/BA_zoo
     #   destination: images/galleries/BA_zoo/medium
