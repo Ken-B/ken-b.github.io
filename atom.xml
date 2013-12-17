@@ -4,7 +4,7 @@
   <title><![CDATA[Ken and Ana's Travel Blog =)]]></title>
   <link href="http://ken-b.github.io/atom.xml" rel="self"/>
   <link href="http://ken-b.github.io/"/>
-  <updated>2013-12-17T00:30:12-03:00</updated>
+  <updated>2013-12-17T02:09:00-03:00</updated>
   <id>http://ken-b.github.io/</id>
   <author>
     <name><![CDATA[Ken and Ana]]></name>
@@ -28,49 +28,6 @@ Back in the huge city where people drive crazy but are oh so friendly and, boy, 
 <p>Also called the Argentinian importer of Art and Lutherie guitars on which shops sell them, only to found out that due to Government import restrictions, they are nowhere to be found. Indeed, the guitar shops here have a lousy selection. I&rsquo;ll just have to wait to buy a little guitar until Chili.</p>
 
 <p>PS: Ana still hasn&rsquo;t written anything yet on the blog, but promised to do so promptly :)</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Quiz Time!]]></title>
-    <link href="http://ken-b.github.io/blog/2013/12/16/quiz-time/"/>
-    <updated>2013-12-16T00:00:00-03:00</updated>
-    <id>http://ken-b.github.io/blog/2013/12/16/quiz-time</id>
-    <content type="html"><![CDATA[<p>Yezzz, a quizzz.</p>
-
-<p>Some might think that this little quiz is a cunning way to get all of your home addresses in one place for sending post cards, but nothing could be further from the truth! We just want to know if you&rsquo;ve been paying attention to this blog :)</p>
-
-<p>The lucky winners can expect something in their post box as soon as Argentinian mail allows.</p>
-
-<p>Switch off your smart phone and sharpen your pencils, here it is:</p>
-
-<!-- jQuery -->
-
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-
-
-<script type="text/javascript">
-  // Avoid conflict with ender.js.
-  jQuery.noConflict();
-</script>
-
-
-<!-- jQuery Form Plugin -->
-
-
-<script src="http://malsup.github.com/jquery.form.js"></script>
-
-
-<script src="http://ajax.aspnetcdn.com/ajax/jquery.validate/1.9/jquery.validate.min.js"></script>
-
-
-<p></p>
-
-<script src="http://ken-b.github.io/javascripts/google_form.js"></script>
-
-
-
 ]]></content>
   </entry>
   
@@ -291,7 +248,7 @@ Back in the huge city where people drive crazy but are oh so friendly and, boy, 
 
 <p> <!-- 15 KB --></p>
 
-<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="80%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00173.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00173.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00205.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00205.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00208.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00208.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00210.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00210.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00223.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00223.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00235.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00235.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00247.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00247.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/Typical Victorian zoo. I like... .JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/Typical Victorian zoo. I like... .JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/We call 'em rabbit deers.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/We call 'em rabbit deers.JPG"/></a></div>
+<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00173.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00173.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00205.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00205.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00208.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00208.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00210.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00210.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00223.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00223.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00235.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00235.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/DSC00247.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/DSC00247.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/Typical Victorian zoo. I like... .JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/Typical Victorian zoo. I like... .JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA_zoo/We call 'em rabbit deers.JPG"><img src="http://ken-b.github.io/images/galleries/BA_zoo/thumbs/We call 'em rabbit deers.JPG"/></a></div>
 
 
 <p> <!--class="fotorama" data-nav="thumbs" --></p>
