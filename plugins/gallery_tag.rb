@@ -4,7 +4,7 @@ module ImageList
   def image_list( name )
     unless name == nil
       list = Array.new
-      list << %Q{<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="80%" data-thumb-with="64" data-thumb-height="48">} # data-width="100%" data-thumb-width= data-thumb-height=
+      list << %Q{<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48">} # data-width="100%" data-thumb-width= data-thumb-height=
       dir = Dir.new( File.join(BASE_DIR, name) )
       dir.sort.each do | d |
         image = File.basename(d, File.extname(d))
