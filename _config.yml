@@ -63,6 +63,20 @@ default_asides: [asides/recent_posts.html]
 #   3rd Party Settings    #
 # ----------------------- #
 
+# added 15/12/2013 for trying mini_magick.rb plugin
+mini_magick:
+    BA_zoo_thumbnail:
+      source: images/galleries/BA_zoo
+      destination: images/galleries/BA_zoo/thumbs
+      commands:
+        - thumbnail: "140x140^"
+        - crop: "140x140-0x0"
+    # BA_zoo_medium:
+    #   source: images/galleries/BA_zoo
+    #   destination: images/galleries/BA_zoo/medium
+    #   commands:
+    #     resize: "600x400^"
+
 # added 14/12/2013 for facebook comments (adapted from jekyllbootstrap)
 facebook_comments:
   appid : 372304869580104
@@ -71,7 +85,7 @@ facebook_comments:
   colorscheme: light 
 
 # added 14/12/2013 for fancyimage_tab
-photos_prefix: /images
+photos_prefix: images/
 
 # added 13/12/2013, maps location for jekyll-mapping
 

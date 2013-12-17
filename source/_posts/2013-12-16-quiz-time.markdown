@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Quiz time!"
+date: 2013-12-16 
+---
+
+Yezzz, a quizzz.
+
+Some might think that this little quiz is a cunning way to get all of your home addresses in one place for sending post cards, but nothing could be further from the truth! We just want to know if you've been paying attention to this blog :)
+
+The lucky winners can expect something in their post box as soon as Argentinian mail allows.
+
+Switch off your smart phone and sharpen your pencils, here it is:
+
+{% google_form dGVfY3Mw83fh3333kssoZWdJQnc6MQ Thank you. I'll get back to your shortly. %}
+

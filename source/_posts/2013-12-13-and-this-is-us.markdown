@@ -10,7 +10,7 @@ mapping:
     zoom: 13
 ---
 
-Well, here we are just arriving in Buenos Aires after a long plane ride. I've got some catching up to do with the blog, so this is just the picture. 
+Well, here we are just arriving in Buenos Aires after a long fligth. I've got some catching up to do with the blog, so this is just the picture. 
 
 Stories are soon to follow :)
 

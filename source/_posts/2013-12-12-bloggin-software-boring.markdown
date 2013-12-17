@@ -114,6 +114,8 @@ Also, don't use tabs in the YML header of your posts, only spaces to indent (tha
 
 I tried fancyimage_tab.rb jekyll plugin, the old gallery_tab plugin, img_popup and some custom mix of the latter, none of which got working nicely. Finally I followed a German [blog](http://uli-heller.github.io/blog/2013/08/04/gallery/) and all went smoothly. They are efficient, ze germanz.
 
+And another [issue](https://gist.github.com/fnichol/867550).
+
 # TODO
 
 * Adapt the rather boring default theme
