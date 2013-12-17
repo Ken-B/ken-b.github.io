@@ -4,7 +4,7 @@
   <title><![CDATA[Ken and Ana's Travel Blog =)]]></title>
   <link href="http://ken-b.github.io/atom.xml" rel="self"/>
   <link href="http://ken-b.github.io/"/>
-  <updated>2013-12-16T20:21:10-03:00</updated>
+  <updated>2013-12-16T22:46:19-03:00</updated>
   <id>http://ken-b.github.io/</id>
   <author>
     <name><![CDATA[Ken and Ana]]></name>
@@ -28,6 +28,21 @@ Back in the huge city where people drive crazy but are oh so friendly and, boy, 
 <p>Also called the Argentinian importer of Art and Lutherie guitars on which shops sell them, only to found out that due to Government import restrictions, they are nowhere to be found. Indeed, the guitar shops here have a lousy selection. I&rsquo;ll just have to wait to buy a little guitar until Chili.</p>
 
 <p>PS: Ana still hasn&rsquo;t written anything yet on the blog, but promised to do so promptly :)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Quiz Time!]]></title>
+    <link href="http://ken-b.github.io/blog/2013/12/16/quiz-time/"/>
+    <updated>2013-12-16T00:00:00-03:00</updated>
+    <id>http://ken-b.github.io/blog/2013/12/16/quiz-time</id>
+    <content type="html"><![CDATA[<p>Yezzz, a quizzz.</p>
+
+<p>Some might think that this little quiz is a cunning way to get all of your home addresses in one place for sending post cards, but nothing could be further from the truth! We just want to know if you&rsquo;ve been paying attention to this blog :)</p>
+
+<p>The lucky winners can expect something in their post box as soon as Argentinian mail allows.</p>
+
+<p>Switch off your smart phone and sharpen your pencils, here it is:</p>
 ]]></content>
   </entry>
   
@@ -190,6 +205,8 @@ Back in the huge city where people drive crazy but are oh so friendly and, boy, 
 
 <p>I tried fancyimage_tab.rb jekyll plugin, the old gallery_tab plugin, img_popup and some custom mix of the latter, none of which got working nicely. Finally I followed a German <a href="http://uli-heller.github.io/blog/2013/08/04/gallery/">blog</a> and all went smoothly. They are efficient, ze germanz.</p>
 
+<p>And another <a href="https://gist.github.com/fnichol/867550">issue</a>.</p>
+
 <h1>TODO</h1>
 
 <ul>
@@ -275,7 +292,7 @@ Back in the huge city where people drive crazy but are oh so friendly and, boy, 
     <link href="http://ken-b.github.io/blog/2013/12/03/and-this-is-us/"/>
     <updated>2013-12-03T00:00:00-03:00</updated>
     <id>http://ken-b.github.io/blog/2013/12/03/and-this-is-us</id>
-    <content type="html"><![CDATA[<p>Well, here we are just arriving in Buenos Aires after a long plane ride. I&rsquo;ve got some catching up to do with the blog, so this is just the picture.</p>
+    <content type="html"><![CDATA[<p>Well, here we are just arriving in Buenos Aires after a long fligth. I&rsquo;ve got some catching up to do with the blog, so this is just the picture.</p>
 
 <p>Stories are soon to follow :)</p>
 
