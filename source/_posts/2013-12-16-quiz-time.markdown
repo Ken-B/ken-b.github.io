@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quiz time!"
-date: 2013-12-16 
+date: 2013-12-17
 published: true
 ---
 
@@ -11,9 +11,9 @@ Yezzz, a quizzz.
 
 Some might think that this little quiz is a cunning way to get all of your home addresses in one place for sending post cards, but nothing could be further from the truth! We just want to know if you've been paying attention to this blog :)
 
-The lucky winners can expect something in their post box as soon as the Argentinian post allows it.
+The lucky winners can expect something delivered to their door as soon as the Argentinian post allows it.
 
-Switch off your smart phone and sharpen your pencils, here it is:
+Now switch off your smart phone and sharpen your pencils, here it is:
 
 -----
 
@@ -164,7 +164,7 @@ Other:</label>
 <input type="submit" name="submit" value="Submit" id="ss-submit"></td>
 
 <td id="progress-container"><div id="progress-bar" class="jfk-progressBar-nonBlocking progress-bar-horizontal goog-inline-block"></div>
-<div id="progress-label" class="progress-label">100%: You made it.</div></td></tr></tbody></table></div></ol></form></div>
+<div id="progress-label" class="progress-label">You made it.</div></td></tr></tbody></table></div></ol></form></div>
 
 </div></div></div>
 
