@@ -1,5 +1,38 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+
+
+body > header {
+  font-size: .7em;
+  hgroup {
+    text-align: left;
+    position: relative;
+    padding: .5em 0;
+    margin: 0 auto;
+  }
+  h1 {
+    text-shadow: rgba(#a80016, .8) 0 0 8px;
+    font-size: 4em;
+    line-height: .8em;
+    position: relative;
+    padding-bottom: 1.75em;
+    margin: 0;
+    a:hover { color: #fff; }
+    &:after {
+      content: "";
+      position: absolute; left: 7em; right: 0; top: .3em;
+      height: image-height('logo.png');
+      @include replace-text('logo.png');
+    }
+  }
+  h2 {
+    font-size: 3.1em;
+    position: relative; top: -.4em;
+    text-shadow: rgba(#4d1300, .8) 0 3 10px;
+  }
+}
+
 .google-form-wrapper {
   .error {
     color: red;
