@@ -4,7 +4,7 @@
   <title><![CDATA[Ken and Ana's Travel Blog =)]]></title>
   <link href="http://ken-b.github.io/atom.xml" rel="self"/>
   <link href="http://ken-b.github.io/"/>
-  <updated>2014-01-05T19:39:07-03:00</updated>
+  <updated>2014-01-05T19:58:00-03:00</updated>
   <id>http://ken-b.github.io/</id>
   <author>
     <name><![CDATA[Ken and Ana]]></name>
@@ -12,6 +12,220 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[We Are Mobile]]></title>
+    <link href="http://ken-b.github.io/blog/2014/12/27/we-are-mobile/"/>
+    <updated>2014-12-27T00:00:00-03:00</updated>
+    <id>http://ken-b.github.io/blog/2014/12/27/we-are-mobile</id>
+    <content type="html"><![CDATA[<p>Finally, God has answered our prayers. And how!</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<p>Checkit, our own <a href="http://xkcd.com/37/">big-ass car</a> that will hopefully take us all around South America. It easily has the biggest engine I&rsquo;ve ever driven, and the car converts &mdash; through some ingenious Tetris moves &mdash; the back part to a full double bed. Nice.</p>
+
+<p>So far I have replaced the stereo system and bought a few little improvements, but I&rsquo;d say it seems in fine and complete condition to take us <a href="http://www.youtube.com/watch?v=dDw-zFFhFgc">all the way</a>.</p>
+
+<!-- 1. Link to jQuery (1.8 or later), -->
+
+
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+
+<p> <!-- 33 KB --></p>
+
+<!-- fotorama.css & fotorama.js. -->
+
+
+<p><link  href="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.css" rel="stylesheet"> <!-- 3 KB --></p>
+
+<script src="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.js"></script>
+
+
+<p> <!-- 15 KB --></p>
+
+<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/car/DSC00572.JPG"><img src="http://ken-b.github.io/images/galleries/car/thumbs/DSC00572.JPG"/></a><a href="http://ken-b.github.io/images/galleries/car/DSC00580.JPG"><img src="http://ken-b.github.io/images/galleries/car/thumbs/DSC00580.JPG"/></a><a href="http://ken-b.github.io/images/galleries/car/DSC00583.JPG"><img src="http://ken-b.github.io/images/galleries/car/thumbs/DSC00583.JPG"/></a><a href="http://ken-b.github.io/images/galleries/car/DSC00615.JPG"><img src="http://ken-b.github.io/images/galleries/car/thumbs/DSC00615.JPG"/></a></div>
+
+
+<p> <!--class="fotorama" data-nav="thumbs" --></p>
+
+<iframe width="560" height="420" 
+        allowfullscreen="allowfullscreen"
+        src="http://www.youtube.com/embed/1TD_pSeNelU?color=white&theme=light"> </iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[More BsAs Pics]]></title>
+    <link href="http://ken-b.github.io/blog/2014/12/18/more-bsas-pics/"/>
+    <updated>2014-12-18T19:54:04-03:00</updated>
+    <id>http://ken-b.github.io/blog/2014/12/18/more-bsas-pics</id>
+    <content type="html"><![CDATA[<p>On request from the home country for more pictures, here a collection from Buenos Aires. Enjoy and, as usuals, witty comments are welcome below :)</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<!-- 1. Link to jQuery (1.8 or later), -->
+
+
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+
+<p> <!-- 33 KB --></p>
+
+<!-- fotorama.css & fotorama.js. -->
+
+
+<p><link  href="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.css" rel="stylesheet"> <!-- 3 KB --></p>
+
+<script src="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.js"></script>
+
+
+<p> <!-- 15 KB --></p>
+
+<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/BA/DSC00153.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00153.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00161.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00161.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00164.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00164.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00253.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00253.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00254.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00254.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00257.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00257.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00259.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00259.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00271.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00271.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00278.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00278.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00280.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00280.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00282.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00282.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00289.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00289.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00293.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00293.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00294.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00294.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00309.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00309.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00318.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00318.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00320.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00320.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00325.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00325.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00326.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00326.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00328.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00328.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00356.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00356.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00449.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00449.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00459.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00459.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00462.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00462.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00469.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00469.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00470.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00470.JPG"/></a></div>
+
+
+<p> <!--class="fotorama" data-nav="thumbs" --></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Pre-travel Tips..]]></title>
+    <link href="http://ken-b.github.io/blog/2013/12/30/ik-vertrek-op-reis-en-ik-neem-mee-dot/"/>
+    <updated>2013-12-30T10:48:37-03:00</updated>
+    <id>http://ken-b.github.io/blog/2013/12/30/ik-vertrek-op-reis-en-ik-neem-mee-dot</id>
+    <content type="html"><![CDATA[<p><em>&lsquo;Ik vertrek op reis en ik neem mee&hellip;&rsquo;</em></p>
+
+<p>In true <a href="http://www.youtube.com/watch?v=Hq4NdUyTEpY">S.O.S Piet</a>-style: what did we learn when packing for a long trip? Here, free of charges and in a handy list format, are Ken&rsquo;s travel tips!</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<ol>
+<li>Weigh your stuff before you pack. It will make you reconsider if you really need this jacket or that gadget. It will also make your luggage lighter, which my neck appreciates.</li>
+<li>Don&rsquo;t leave without
+
+<ul>
+<li>an <a href="http://www.amazon.com/Kikkerland-Telescoping-Back-Scratcher-Silver/dp/B000UVT8GQ">extendable telescopic backscratcher</a>,</li>
+<li>a <a href="http://www.amazon.com/Kindle-Keyboard-Free-Wi-Fi-Display/dp/B004HZYA6E">kindle keyboard 3G</a> with free (<a href="http://en.wikipedia.org/wiki/Gratis_versus_libre">as in beer</a> :P) worldwide 3G for checking email, getting the latest FT or Economist and of course, <a href="http://www.youtube.com/watch?v=Uvs2g5Nj0NI">reading</a>!</li>
+<li>a <a href="http://www.decathlon.be/slaapzaklaken-camping-zijde-id_8242797.html">silk liner</a>, which adds a few degrees during the cold, cools off a few during heat and, above all, sleeps so softly;</li>
+<li>some extra bitcoins in case you run out of local currency (kidding, just seeing if you&rsquo;re paying attention :P).</li>
+</ul>
+</li>
+<li>100% (Merino) woolen shirts are ab-so-lu-tly great! Like the silk liner, it&rsquo;s warm during cold weather (wool, duh!), but also agreeable during warm weather because it doesn&rsquo;t suck up your sweat. Merino wool is anti-bacterial, so doesn&rsquo;t stink.</li>
+<li>Check for single pots meals you can make while on the road, I have a feeling we will soon get bored of spaghetti and rice. If you have a good suggestion, use the comments below!</li>
+<li>Even after weighing, Ana&rsquo;s backpack was still lighter, damnit! It might have been the <a href="http://shop.lonelyplanet.com/world/lonely-planets-best-ever-travel-tips-2/">Lonely Planet&rsquo;s Travel Tips</a> that I packed. I  bought the little book to get a discount for the <a href="http://shop.lonelyplanet.com/south-america/south-america-on-a-shoestring-travel-guide-12/">Lonely Planet&rsquo;s South America on a shoestring</a> and would only recommend it for the same reason.
+Here are the ones I found useful (as much a reminder for myself as a sharing=caring):
+
+<ul>
+<li>Don&rsquo;t take liquids! Shampoo, sunblock, insect-repellent, etc come in smaller, lighter, non-liquid form. (But Ana found out that even non-liquid hand cream can still leak all over the rest of her cosmetics).</li>
+<li>Always bring a torch (check), baby wipes (I concur), spork (nope), driver&rsquo;s licence, goggles (I forgot) and gaffer tape (whatever that is). And a small hand sanitiser.</li>
+<li>For doing a quick laundry: take travel clothesline, powder detergent and universal sink stopper.</li>
+<li>Dependent on the destination: pillow case and liner.</li>
+<li>A Travelex prepaid card can (apparently) get reissued.</li>
+<li>If possible, print booking confirmations (duh!)</li>
+<li>When changing money, ask lower denominated bills (except if to stuff in a secret money belt).</li>
+<li>Take picture of all your stuff, which will also make you pack less (see below).</li>
+<li>Some sights: <a href="http://www.seatguru.com">seatguru.com</a> for choosing seat for online check-in (makes me wish I read this before our flight) and UnusualHotelsOfTheWorld.com](<a href="http://www.UnusualHotelsOfTheWorld.com">http://www.UnusualHotelsOfTheWorld.com</a></li>
+<li>You might get some free wifi in airports close to business lounges.</li>
+<li>Never travel without a second/foldable bag. I actually took a big one with wheels to carry my backpack in order to let the neck cure a bit more (which is getting better, thanks for asking). In hindsight, I should have just bought a cheap crappy cart, but now I have more space for presents :)</li>
+</ul>
+</li>
+<li>If you&rsquo;ve come this far, I might as well add some more: The Exped sleeping mats are light, warm and comfortable, but prone to punctures and pricy. I use the <a href="http://www.amazon.de/Exped-Isomatte-SynMat-UL-yellow/dp/B00BTO2QM6/ref=sr_1_4?ie=UTF8&amp;qid=1388948644&amp;sr=8-4&amp;keywords=exped+9">Exped UL 9 M</a> and recommend it.</li>
+</ol>
+
+
+<p>I might add some for my own reference later, but that&rsquo;s all for now, folks!</p>
+
+<!-- 1. Link to jQuery (1.8 or later), -->
+
+
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+
+<p> <!-- 33 KB --></p>
+
+<!-- fotorama.css & fotorama.js. -->
+
+
+<p><link  href="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.css" rel="stylesheet"> <!-- 3 KB --></p>
+
+<script src="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.js"></script>
+
+
+<p> <!-- 15 KB --></p>
+
+<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/luggage/DSC00574.JPG"><img src="http://ken-b.github.io/images/galleries/luggage/thumbs/DSC00574.JPG"/></a><a href="http://ken-b.github.io/images/galleries/luggage/DSC00575.JPG"><img src="http://ken-b.github.io/images/galleries/luggage/thumbs/DSC00575.JPG"/></a></div>
+
+
+<p> <!--class="fotorama" data-nav="thumbs" --></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Patagonia Driving]]></title>
+    <link href="http://ken-b.github.io/blog/2013/12/29/patagonia-driving/"/>
+    <updated>2013-12-29T00:00:00-03:00</updated>
+    <id>http://ken-b.github.io/blog/2013/12/29/patagonia-driving</id>
+    <content type="html"><![CDATA[<p>Stare at the image below for 10 seconds. Do you see it?</p>
+
+<p><img src="http://ken-b.github.io/images/DSC00578.JPG"></p>
+
+<p>Look again!</p>
+
+<p>&hellip;</p>
+
+<p>Well, if you keep looking at it for the next couple of hours, then you&rsquo;ll know how it feels to drive the east coast of Patagonia&hellip;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Uruguayan Pictures]]></title>
+    <link href="http://ken-b.github.io/blog/2013/12/28/just-pictures/"/>
+    <updated>2013-12-28T17:03:46-03:00</updated>
+    <id>http://ken-b.github.io/blog/2013/12/28/just-pictures</id>
+    <content type="html"><![CDATA[<p>Nope, no funny joke on Uruguay, because it&rsquo;s the <a href="http://www.economist.com/news/leaders/21591872-resilient-ireland-booming-south-sudan-tumultuous-turkey-our-country-year-earths-got?spc=scode&amp;spv=xm&amp;ah=9d7f7ab945510a56fa6d37c30b6f1709">country of the year</a>!</p>
+
+<p>We passed by Colonia del Sacramento, a quiet little old town that originated as a Portuguese smuggling town across Buenos Aires. It&rsquo;s definitely more relaxed than Buenos Aires and it appears to be a bit more equitous society.</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<!-- 1. Link to jQuery (1.8 or later), -->
+
+
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+
+<p> <!-- 33 KB --></p>
+
+<!-- fotorama.css & fotorama.js. -->
+
+
+<p><link  href="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.css" rel="stylesheet"> <!-- 3 KB --></p>
+
+<script src="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.js"></script>
+
+
+<p> <!-- 15 KB --></p>
+
+<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00386.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00386.JPG"/></a><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00390.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00390.JPG"/></a><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00404.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00404.JPG"/></a><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00413.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00413.JPG"/></a><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00434.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00434.JPG"/></a><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00435.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00435.JPG"/></a><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00439.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00439.JPG"/></a></div>
+
+
+<p> <!--class="fotorama" data-nav="thumbs" --></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Bye Bye BA]]></title>
