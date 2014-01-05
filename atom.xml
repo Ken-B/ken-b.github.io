@@ -4,7 +4,7 @@
   <title><![CDATA[Ken and Ana's Travel Blog =)]]></title>
   <link href="http://ken-b.github.io/atom.xml" rel="self"/>
   <link href="http://ken-b.github.io/"/>
-  <updated>2013-12-21T15:23:37-03:00</updated>
+  <updated>2014-01-05T19:39:07-03:00</updated>
   <id>http://ken-b.github.io/</id>
   <author>
     <name><![CDATA[Ken and Ana]]></name>
@@ -398,7 +398,7 @@ Back in the huge city where people drive crazy but are oh so friendly and, boy, 
 
 <h3>Mapping</h3>
 
-<p>I used the forekd <a href="http://matthewowen.github.com/jekyll-mapping/">jekyll-mapping</a> from <a href="https://github.com/throughnothing/jekyll-mapping">throughnothing</a>. I added an <code>if context['page']['mapping']['show']</code> statement in the ruby script (my first ruby coding ever!) to have the map only show when an extra subkey <code>show</code> is defined for the <code>mapping</code> key in YML of the post.</p>
+<p>I used the forked <a href="http://matthewowen.github.com/jekyll-mapping/">jekyll-mapping</a> from <a href="https://github.com/throughnothing/jekyll-mapping">throughnothing</a>. I added an <code>if context['page']['mapping']['show']</code> statement in the ruby script (my first ruby coding ever!) to have the map only show when an extra subkey <code>show</code> is defined for the <code>mapping</code> key in YML of the post.</p>
 
 <h3>Troubleshooting</h3>
 
