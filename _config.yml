@@ -44,7 +44,7 @@ pygments: false # default python pygments have been replaced by pygments.rb
 
 paginate: 5          # Posts per page on the blog index
 pagination_dir: blog  # Directory base for pagination URLs eg. /blog/page/2/
-recent_posts: 20       # Posts in the sidebar Recent Posts section
+recent_posts: 50       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 
 titlecase: true       # Converts page and post titles to titlecase
@@ -80,6 +80,18 @@ mini_magick:
     Uruguay_thumbnail:
       source: images/galleries/Uruguay
       destination: images/galleries/Uruguay/thumbs
+      commands:
+        - thumbnail: "64x48^"
+        - crop: "64x48-0x0"
+    luggage_thumbnail:
+      source: images/galleries/luggage
+      destination: images/galleries/luggage/thumbs
+      commands:
+        - thumbnail: "64x48^"
+        - crop: "64x48-0x0"
+    car_thumbnail:
+      source: images/galleries/car
+      destination: images/galleries/car/thumbs
       commands:
         - thumbnail: "64x48^"
         - crop: "64x48-0x0"

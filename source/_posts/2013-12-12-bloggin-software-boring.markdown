@@ -104,7 +104,7 @@ If you're happy with the preview result, run
 
 ### Mapping
 
-I used the forekd [jekyll-mapping](http://matthewowen.github.com/jekyll-mapping/) from [throughnothing](https://github.com/throughnothing/jekyll-mapping). I added an `if context['page']['mapping']['show']` statement in the ruby script (my first ruby coding ever!) to have the map only show when an extra subkey `show` is defined for the `mapping` key in YML of the post.
+I used the forked [jekyll-mapping](http://matthewowen.github.com/jekyll-mapping/) from [throughnothing](https://github.com/throughnothing/jekyll-mapping). I added an `if context['page']['mapping']['show']` statement in the ruby script (my first ruby coding ever!) to have the map only show when an extra subkey `show` is defined for the `mapping` key in YML of the post.
 
 ### Troubleshooting
 
