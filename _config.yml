@@ -71,6 +71,18 @@ mini_magick:
       commands:
         - thumbnail: "64x48^"
         - crop: "64x48-0x0"
+    BA_thumbnail:
+      source: images/galleries/BA
+      destination: images/galleries/BA/thumbs
+      commands:
+        - thumbnail: "64x48^"
+        - crop: "64x48-0x0"
+    Uruguay_thumbnail:
+      source: images/galleries/Uruguay
+      destination: images/galleries/Uruguay/thumbs
+      commands:
+        - thumbnail: "64x48^"
+        - crop: "64x48-0x0"
     # BA_zoo_medium:
     #   source: images/galleries/BA_zoo
     #   destination: images/galleries/BA_zoo/medium
