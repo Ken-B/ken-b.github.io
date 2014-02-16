@@ -4,7 +4,7 @@
   <title><![CDATA[Ken and Ana's Travel Blog =)]]></title>
   <link href="http://ken-b.github.io/atom.xml" rel="self"/>
   <link href="http://ken-b.github.io/"/>
-  <updated>2014-01-05T21:09:14-03:00</updated>
+  <updated>2014-02-16T15:05:24-03:00</updated>
   <id>http://ken-b.github.io/</id>
   <author>
     <name><![CDATA[Ken and Ana]]></name>
@@ -14,62 +14,50 @@
 
   
   <entry>
-    <title type="html"><![CDATA[We Are Mobile]]></title>
-    <link href="http://ken-b.github.io/blog/2014/12/27/we-are-mobile/"/>
-    <updated>2014-12-27T00:00:00-03:00</updated>
-    <id>http://ken-b.github.io/blog/2014/12/27/we-are-mobile</id>
-    <content type="html"><![CDATA[<p>Finally, God has answered our prayers. And how!</p>
+    <title type="html"><![CDATA[Close-Up]]></title>
+    <link href="http://ken-b.github.io/blog/2014/01/15/macro/"/>
+    <updated>2014-01-15T00:00:00-03:00</updated>
+    <id>http://ken-b.github.io/blog/2014/01/15/macro</id>
+    <content type="html"><![CDATA[<p>Two close up pictures today. In the morning we found out what made our transmission oil level low. A broken fitting (and an old previous fix) caused a small leak in the normally closed transmission box, which made the oil heat up too much and made a white light flash annoyingly on the dash board. We decided not to risk breaking the transmission and had the car towed to Coyhaique, Chile. A transmission oil change and a few new fitting parts (together with a full maintanance) got us on our way again.</p>
 
-<!-- more -->
+<p><img src="http://ken-b.github.io/images/DSC00821.JPG"></p>
 
+<p>But not before enjoying a nice lunch in the cosy town! The (South) Chilean specialty: raw fish with some refreshing stuff, called <em>ceviche</em>.</p>
 
-<p></p>
-
-<p>Checkit, our own <a href="http://xkcd.com/37/">big-ass car</a> that will hopefully take us all around South America. It easily has the biggest engine I&rsquo;ve ever driven, and the car converts &mdash; through some ingenious Tetris moves &mdash; the back part to a full double bed. Nice.</p>
-
-<p>So far I have replaced the stereo system and bought a few little improvements, but I&rsquo;d say it seems in fine and complete condition to take us <a href="http://www.youtube.com/watch?v=dDw-zFFhFgc">all the way</a>.</p>
-
-<!-- 1. Link to jQuery (1.8 or later), -->
-
-
-<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
-
-
-<p> <!-- 33 KB --></p>
-
-<!-- fotorama.css & fotorama.js. -->
-
-
-<p><link  href="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.css" rel="stylesheet"> <!-- 3 KB --></p>
-
-<script src="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.js"></script>
-
-
-<p> <!-- 15 KB --></p>
-
-<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/car/DSC00572.JPG"><img src="http://ken-b.github.io/images/galleries/car/thumbs/DSC00572.JPG"/></a><a href="http://ken-b.github.io/images/galleries/car/DSC00580.JPG"><img src="http://ken-b.github.io/images/galleries/car/thumbs/DSC00580.JPG"/></a><a href="http://ken-b.github.io/images/galleries/car/DSC00583.JPG"><img src="http://ken-b.github.io/images/galleries/car/thumbs/DSC00583.JPG"/></a><a href="http://ken-b.github.io/images/galleries/car/DSC00615.JPG"><img src="http://ken-b.github.io/images/galleries/car/thumbs/DSC00615.JPG"/></a></div>
-
-
-<p> <!--class="fotorama" data-nav="thumbs" --></p>
-
-<iframe width="560" height="420" 
-        allowfullscreen="allowfullscreen"
-        src="http://www.youtube.com/embed/1TD_pSeNelU?color=white&theme=light"> </iframe>
-
+<p><img src="http://ken-b.github.io/images/DSC00822.JPG"></p>
 ]]></content>
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[More BsAs Pics]]></title>
-    <link href="http://ken-b.github.io/blog/2014/12/18/more-bsas-pics/"/>
-    <updated>2014-12-18T19:54:04-03:00</updated>
-    <id>http://ken-b.github.io/blog/2014/12/18/more-bsas-pics</id>
-    <content type="html"><![CDATA[<p>On request from the home country for more pictures, here a collection from Buenos Aires. Enjoy and, as usuals, witty comments are welcome below :)</p>
+    <title type="html"><![CDATA[Verloren Maandag]]></title>
+    <link href="http://ken-b.github.io/blog/2014/01/13/verloren-maandag/"/>
+    <updated>2014-01-13T16:58:48-03:00</updated>
+    <id>http://ken-b.github.io/blog/2014/01/13/verloren-maandag</id>
+    <content type="html"><![CDATA[<p>Even in Coyhaique, Chile, <a href="http://query.nytimes.com/mem/archive-free/pdf?res=F20915FF34591B728DDDAC0A94D9405B838CF1D3"><em>verloren maandag</em></a> is Lost Monday!</p>
+
+<p><img src="http://ken-b.github.io/images/DSC00819.JPG"></p>
+
+<p>And to make me feel even closer to home, they sell some fine golden liquids here.</p>
+
+<p><img src="http://ken-b.github.io/images/DSC00820.JPG"></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Penguins]]></title>
+    <link href="http://ken-b.github.io/blog/2014/01/11/penguins/"/>
+    <updated>2014-01-11T00:00:00-03:00</updated>
+    <id>http://ken-b.github.io/blog/2014/01/11/penguins</id>
+    <content type="html"><![CDATA[<p>Penguins are always funny</p>
+
+<p><img src="http://ken-b.github.io/images/penguins.gif"></p>
 
 <!-- more -->
 
 
 <p></p>
+
+<p>And now for something completely different! Ken and Ana in Punta Tombo, the largest penguin colony after Antarctica. Home to some 200,000 Magelaen Penguins, the little buggers come to bread here while they empty the sea up to 500 km outwards. In the winter they head north (it&rsquo;s the other side of the world here, don&rsquo;t forget) for 6000 km to Brasil .</p>
 
 <!-- 1. Link to jQuery (1.8 or later), -->
 
@@ -89,7 +77,58 @@
 
 <p> <!-- 15 KB --></p>
 
-<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/BA/DSC00153.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00153.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00161.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00161.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00164.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00164.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00253.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00253.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00254.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00254.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00257.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00257.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00259.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00259.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00271.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00271.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00278.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00278.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00280.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00280.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00282.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00282.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00289.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00289.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00293.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00293.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00294.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00294.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00309.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00309.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00318.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00318.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00320.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00320.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00325.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00325.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00326.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00326.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00328.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00328.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00356.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00356.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00449.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00449.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00459.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00459.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00462.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00462.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00469.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00469.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00470.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00470.JPG"/></a></div>
+<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/penguins/DSC00687.JPG"><img src="http://ken-b.github.io/images/galleries/penguins/thumbs/DSC00687.JPG"/></a><a href="http://ken-b.github.io/images/galleries/penguins/DSC00703.JPG"><img src="http://ken-b.github.io/images/galleries/penguins/thumbs/DSC00703.JPG"/></a><a href="http://ken-b.github.io/images/galleries/penguins/DSC00713.jpg"><img src="http://ken-b.github.io/images/galleries/penguins/thumbs/DSC00713.jpg"/></a><a href="http://ken-b.github.io/images/galleries/penguins/DSC00715.jpg"><img src="http://ken-b.github.io/images/galleries/penguins/thumbs/DSC00715.jpg"/></a><a href="http://ken-b.github.io/images/galleries/penguins/DSC00720.jpg"><img src="http://ken-b.github.io/images/galleries/penguins/thumbs/DSC00720.jpg"/></a><a href="http://ken-b.github.io/images/galleries/penguins/DSC00722.jpg"><img src="http://ken-b.github.io/images/galleries/penguins/thumbs/DSC00722.jpg"/></a><a href="http://ken-b.github.io/images/galleries/penguins/DSC00724.jpg"><img src="http://ken-b.github.io/images/galleries/penguins/thumbs/DSC00724.jpg"/></a><a href="http://ken-b.github.io/images/galleries/penguins/DSC00728.jpg"><img src="http://ken-b.github.io/images/galleries/penguins/thumbs/DSC00728.jpg"/></a><a href="http://ken-b.github.io/images/galleries/penguins/DSC00730.jpg"><img src="http://ken-b.github.io/images/galleries/penguins/thumbs/DSC00730.jpg"/></a><a href="http://ken-b.github.io/images/galleries/penguins/DSC00734.jpg"><img src="http://ken-b.github.io/images/galleries/penguins/thumbs/DSC00734.jpg"/></a></div>
+
+
+<p> <!--class="fotorama" data-nav="thumbs" --></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[East Coast]]></title>
+    <link href="http://ken-b.github.io/blog/2014/01/03/east-coast/"/>
+    <updated>2014-01-03T00:00:00-03:00</updated>
+    <id>http://ken-b.github.io/blog/2014/01/03/east-coast</id>
+    <content type="html"><![CDATA[<p>With some delay, here the pics and stories from our East Coast travels. Aiiiight!</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<p>We escaped the Buenos Aires heat wave by travelling South to Mar del Plata (just in case you forgot). There we settled at Camping Faro, a bit outside of this huge beach town that swells to a million people city during the summer, with mostly Argentinians looking to cool off like us. The chill camping is next to the beach and from our tent we could see the ocean. Pretty cool. At the port there&rsquo;s a small sea lion colony, totally out of place, and we discovered that sea lions are much bigger and, therefore, impressive from close up.</p>
+
+<p>In Miramar, further on South, we relaxed some more and took some Christmas pics.</p>
+
+<p>In Bahia Blanca, after some paperwork and confusion, the nice swiss owners sold us our ride. And we were happy :) Our first night we spent at a camping outside Bahia Blanca with the biggest swimming pool I&rsquo;ve ever seen. Built around a natural spring, I reckon it&rsquo;s about 100x100m.</p>
+
+<p>And then we were off to Peninsula Valdez, a nature reserve at the coast where whales, killer whales (who turn out to be a type of dolphin), penguins (who turn out to be birds), sea lions (who turn out still impressive), elephant seals (who turn out to be huge blobs of fat), guanaco&rsquo;s (who turn out to be dumb lama-like thingies), ñando&rsquo;s (who turn out to be little ostriches) and what not, live all together in peace and harmony. The whales were the only ones that didn&rsquo;t turn out anything, because they already left north. After camping right by the ocean and a nice New Year&rsquo;s dinner in town, we went the other way.</p>
+
+<p>Now is a good time to warn you. You might have gotten the impression that this region is full of life and activities, but the opposite is true. Besides the beach towns &mdash; that grew so big because they are on the only small stretch of beach in Argentina &mdash;, the mostly empty Peninsula Valdez and the penguins at Punta Tombo, the one thing that is everywhere here is vast nothingness. It&rsquo;s full of it. Some of the coast line is quite beautiful, but beyond an empty void stretches out behind every lonely bush and we totally did not expect this. So be warned!</p>
+
+<p>Ah, right, we also visited a cool dinosaur museum, if you&rsquo;re wandering what those pictures are about. Apparantly Argentina is a wet dream for archeologists that still did not outgrow their dinosaur period.</p>
+
+<p>In a next post some penguin shots, stay tuned!</p>
+
+<!-- 1. Link to jQuery (1.8 or later), -->
+
+
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+
+<p> <!-- 33 KB --></p>
+
+<!-- fotorama.css & fotorama.js. -->
+
+
+<p><link  href="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.css" rel="stylesheet"> <!-- 3 KB --></p>
+
+<script src="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.js"></script>
+
+
+<p> <!-- 15 KB --></p>
+
+<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00485.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00485.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00489.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00489.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00512.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00512.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00565.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00565.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00570.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00570.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00594.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00594.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00599.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00599.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00601.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00601.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00611.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00611.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00623.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00623.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00629.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00629.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00630.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00630.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00644.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00644.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00646.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00646.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00649.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00649.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00654.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00654.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00660.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00660.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00664.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00664.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00667.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00667.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/DSC00672.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/DSC00672.JPG"/></a><a href="http://ken-b.github.io/images/galleries/east_coast/postcardv4.JPG"><img src="http://ken-b.github.io/images/galleries/east_coast/thumbs/postcardv4.JPG"/></a></div>
 
 
 <p> <!--class="fotorama" data-nav="thumbs" --></p>
@@ -111,7 +150,7 @@
 <p></p>
 
 <ol>
-<li>Weigh your stuff before you pack. It will make you reconsider if you really need this jacket or that gadget. It will also make your luggage lighter, which my neck appreciates.</li>
+<li>Weigh your stuff before you pack. It will make you reconsider if you really need this jacket or that gadget. It will also make your luggage lighter, which the neck appreciates.</li>
 <li>Don&rsquo;t leave without
 
 <ul>
@@ -128,14 +167,14 @@ Here are the ones I found useful (as much a reminder for myself as a sharing=car
 
 <ul>
 <li>Don&rsquo;t take liquids! Shampoo, sunblock, insect-repellent, etc come in smaller, lighter, non-liquid form. (But Ana found out that even non-liquid hand cream can still leak all over the rest of her cosmetics).</li>
-<li>Always bring a torch (check), baby wipes (I concur), spork (nope), driver&rsquo;s licence, goggles (I forgot) and gaffer tape (whatever that is). And a small hand sanitiser.</li>
+<li>Always bring a torch (check), baby wipes (I concur), spork (nope), driver&rsquo;s licence (also international one), goggles (I forgot) and gaffer tape (whatever that is). And a small hand sanitiser (squirt and check).</li>
 <li>For doing a quick laundry: take travel clothesline, powder detergent and universal sink stopper.</li>
 <li>Dependent on the destination: pillow case and liner.</li>
 <li>A Travelex prepaid card can (apparently) get reissued.</li>
 <li>If possible, print booking confirmations (duh!)</li>
 <li>When changing money, ask lower denominated bills (except if to stuff in a secret money belt).</li>
 <li>Take picture of all your stuff, which will also make you pack less (see below).</li>
-<li>Some sights: <a href="http://www.seatguru.com">seatguru.com</a> for choosing seat for online check-in (makes me wish I read this before our flight) and UnusualHotelsOfTheWorld.com](<a href="http://www.UnusualHotelsOfTheWorld.com">http://www.UnusualHotelsOfTheWorld.com</a></li>
+<li>Some sights: <a href="http://www.seatguru.com">seatguru.com</a> for choosing seat for online check-in (makes me wish I read this before our flight) and <a href="http://www.UnusualHotelsOfTheWorld.com">UnusualHotelsOfTheWorld.com</a></li>
 <li>You might get some free wifi in airports close to business lounges.</li>
 <li>Never travel without a second/foldable bag. I actually took a big one with wheels to carry my backpack in order to let the neck cure a bit more (which is getting better, thanks for asking). In hindsight, I should have just bought a cheap crappy cart, but now I have more space for presents :)</li>
 </ul>
@@ -221,6 +260,89 @@ Here are the ones I found useful (as much a reminder for myself as a sharing=car
 <p> <!-- 15 KB --></p>
 
 <div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00386.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00386.JPG"/></a><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00390.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00390.JPG"/></a><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00404.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00404.JPG"/></a><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00413.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00413.JPG"/></a><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00434.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00434.JPG"/></a><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00435.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00435.JPG"/></a><a href="http://ken-b.github.io/images/galleries/Uruguay/DSC00439.JPG"><img src="http://ken-b.github.io/images/galleries/Uruguay/thumbs/DSC00439.JPG"/></a></div>
+
+
+<p> <!--class="fotorama" data-nav="thumbs" --></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[We Are Mobile]]></title>
+    <link href="http://ken-b.github.io/blog/2013/12/27/we-are-mobile/"/>
+    <updated>2013-12-27T00:00:00-03:00</updated>
+    <id>http://ken-b.github.io/blog/2013/12/27/we-are-mobile</id>
+    <content type="html"><![CDATA[<p>Finally, God has answered our prayers. And how!</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<p>Checkit, our own <a href="http://xkcd.com/37/">big-ass car</a> that will hopefully take us all around South America. It easily has the biggest engine I&rsquo;ve ever driven, and the car converts &mdash; through some ingenious Tetris moves &mdash; the back part to a full double bed. Nice.</p>
+
+<p>So far I have replaced the stereo system and bought a few little improvements, but I&rsquo;d say it seems in fine and complete condition to take us <a href="http://www.youtube.com/watch?v=dDw-zFFhFgc">all the way</a>.</p>
+
+<!-- 1. Link to jQuery (1.8 or later), -->
+
+
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+
+<p> <!-- 33 KB --></p>
+
+<!-- fotorama.css & fotorama.js. -->
+
+
+<p><link  href="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.css" rel="stylesheet"> <!-- 3 KB --></p>
+
+<script src="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.js"></script>
+
+
+<p> <!-- 15 KB --></p>
+
+<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/car/DSC00572.JPG"><img src="http://ken-b.github.io/images/galleries/car/thumbs/DSC00572.JPG"/></a><a href="http://ken-b.github.io/images/galleries/car/DSC00580.JPG"><img src="http://ken-b.github.io/images/galleries/car/thumbs/DSC00580.JPG"/></a><a href="http://ken-b.github.io/images/galleries/car/DSC00583.JPG"><img src="http://ken-b.github.io/images/galleries/car/thumbs/DSC00583.JPG"/></a><a href="http://ken-b.github.io/images/galleries/car/DSC00615.JPG"><img src="http://ken-b.github.io/images/galleries/car/thumbs/DSC00615.JPG"/></a></div>
+
+
+<p> <!--class="fotorama" data-nav="thumbs" --></p>
+
+<iframe width="560" height="420" 
+        allowfullscreen="allowfullscreen"
+        src="http://www.youtube.com/embed/1TD_pSeNelU?color=white&theme=light"> </iframe>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[More BsAs Pics]]></title>
+    <link href="http://ken-b.github.io/blog/2013/12/18/more-bsas-pics/"/>
+    <updated>2013-12-18T19:54:04-03:00</updated>
+    <id>http://ken-b.github.io/blog/2013/12/18/more-bsas-pics</id>
+    <content type="html"><![CDATA[<p>On request from the home country for more pictures, here a collection from Buenos Aires. Enjoy and, as usuals, witty comments are welcome below :)</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<!-- 1. Link to jQuery (1.8 or later), -->
+
+
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+
+<p> <!-- 33 KB --></p>
+
+<!-- fotorama.css & fotorama.js. -->
+
+
+<p><link  href="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.css" rel="stylesheet"> <!-- 3 KB --></p>
+
+<script src="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.js"></script>
+
+
+<p> <!-- 15 KB --></p>
+
+<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/BA/DSC00153.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00153.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00161.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00161.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00164.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00164.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00253.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00253.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00254.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00254.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00257.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00257.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00259.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00259.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00271.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00271.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00278.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00278.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00280.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00280.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00282.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00282.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00289.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00289.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00293.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00293.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00294.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00294.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00309.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00309.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00318.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00318.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00320.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00320.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00325.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00325.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00326.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00326.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00328.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00328.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00356.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00356.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00449.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00449.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00459.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00459.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00462.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00462.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00469.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00469.JPG"/></a><a href="http://ken-b.github.io/images/galleries/BA/DSC00470.JPG"><img src="http://ken-b.github.io/images/galleries/BA/thumbs/DSC00470.JPG"/></a></div>
 
 
 <p> <!--class="fotorama" data-nav="thumbs" --></p>
