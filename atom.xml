@@ -4,7 +4,7 @@
   <title><![CDATA[Ken and Ana's Travel Blog =)]]></title>
   <link href="http://ken-b.github.io/atom.xml" rel="self"/>
   <link href="http://ken-b.github.io/"/>
-  <updated>2014-03-23T23:41:24-03:00</updated>
+  <updated>2014-03-24T00:24:31-03:00</updated>
   <id>http://ken-b.github.io/</id>
   <author>
     <name><![CDATA[Ken and Ana]]></name>
@@ -14,11 +14,61 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Chalten]]></title>
+    <link href="http://ken-b.github.io/blog/2014/01/24/chalten/"/>
+    <updated>2014-01-24T00:00:00-03:00</updated>
+    <id>http://ken-b.github.io/blog/2014/01/24/chalten</id>
+    <content type="html"><![CDATA[<p>One of the advantages of waiting a bit before writing up the blog (what some may call <a href="http://www.amazon.com/Wait-The-Art-Science-Delay/dp/1610392477">procrastination</a>), is that you can compare to what happened afterwards. And I can therefore say that El Chaltén is one of the most beautiful places in Argentina.</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<p>The small village is set below the impressive Fitz Roy peak, whos always overlooking what you&rsquo;re up to. Perhaps it will be most remembered by me as the first place where I saw a condor cruising over. And just like you remember where you were on 9-11 (in my undies watching tv), everyone remembers their first condor passing. A moment to be hold in silence (without the <a href="https://www.youtube.com/watch?v=yPbtqRCb5gc">damn pan flute song</a>).</p>
+
+<p>Anyway, the whole setting is also super relaxed. Only laid back travellers and hard core climbers venture out to this remote place and let&rsquo;s hope it stays like this forever.</p>
+
+<p>In case you&rsquo;re wondering what that photo showing extra luggage in our car is about, well, that was the third time we met <em>ze frenchies</em> Germain and Erwan. We managed to cram them in our car as our hearts could not leave them struggling to hitch a ride for another half a day. (The first encounter was really <a href="https://goo.gl/maps/aLpmc">in the middle of nowhere</a>). We kept meeting them along the way so much that it became a running joke. At the moment they&rsquo;re studying here in Mendoza where I am writing this :)</p>
+
+<!-- 1. Link to jQuery (1.8 or later), -->
+
+
+<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+
+
+<p> <!-- 33 KB --></p>
+
+<!-- fotorama.css & fotorama.js. -->
+
+
+<p><link  href="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.css" rel="stylesheet"> <!-- 3 KB --></p>
+
+<script src="http://fotorama.s3.amazonaws.com/4.4.8/fotorama.js"></script>
+
+
+<p> <!-- 15 KB --></p>
+
+<div class="fotorama" data-autoplay="3000" data-transition="dissolve" data-nav="thumbs" data-allow-full-screen="true" data-keyboard="true" data-width="90%" data-thumb-with="64" data-thumb-height="48"><a href="http://ken-b.github.io/images/galleries/chalten/DSC00926.JPG"><img src="http://ken-b.github.io/images/galleries/chalten/thumbs/DSC00926.JPG"/></a><a href="http://ken-b.github.io/images/galleries/chalten/DSC00932.JPG"><img src="http://ken-b.github.io/images/galleries/chalten/thumbs/DSC00932.JPG"/></a><a href="http://ken-b.github.io/images/galleries/chalten/DSC00933.JPG"><img src="http://ken-b.github.io/images/galleries/chalten/thumbs/DSC00933.JPG"/></a><a href="http://ken-b.github.io/images/galleries/chalten/DSC00942.JPG"><img src="http://ken-b.github.io/images/galleries/chalten/thumbs/DSC00942.JPG"/></a><a href="http://ken-b.github.io/images/galleries/chalten/DSC00944.JPG"><img src="http://ken-b.github.io/images/galleries/chalten/thumbs/DSC00944.JPG"/></a><a href="http://ken-b.github.io/images/galleries/chalten/DSC00956.JPG"><img src="http://ken-b.github.io/images/galleries/chalten/thumbs/DSC00956.JPG"/></a><a href="http://ken-b.github.io/images/galleries/chalten/DSC00961.JPG"><img src="http://ken-b.github.io/images/galleries/chalten/thumbs/DSC00961.JPG"/></a><a href="http://ken-b.github.io/images/galleries/chalten/DSC00981.JPG"><img src="http://ken-b.github.io/images/galleries/chalten/thumbs/DSC00981.JPG"/></a></div>
+
+
+<p> <!--class="fotorama" data-nav="thumbs" --></p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Around a Lake]]></title>
     <link href="http://ken-b.github.io/blog/2014/01/17/around-a-lake/"/>
     <updated>2014-01-17T00:00:00-03:00</updated>
     <id>http://ken-b.github.io/blog/2014/01/17/around-a-lake</id>
-    <content type="html"><![CDATA[<p>Yes, around <em>a</em> lake, not <em>the</em> lake. Because this specific lake that borders two countries has two names. In Chile it is known as Lago General Carrera after <a href="http://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_Carrera">José Luis</a>, who fought the Spanish Reconquista but was not particularly loved in his neighbouring country and consequently executed in Mendoza. In Argentina it is therefore known as Lago Buenos Aires, the name given to its capital in 1536 by the Spanish conquistador named, hold your breath, Pedro de Mendoza. The Chileans in their turn named the few rocks in their part of the lake Islas Malvinas, the most painful of Argentine humiliations. And so the animosity continues.</p>
+    <content type="html"><![CDATA[<p>Yes, around <em>a</em> lake, not <em>the</em> lake. Because this specific lake that borders two countries has two names.</p>
+
+<!-- more -->
+
+
+<p></p>
+
+<p>In Chile it is known as Lago General Carrera after <a href="http://en.wikipedia.org/wiki/Jos%C3%A9_Miguel_Carrera">José Luis</a>, who fought the Spanish Reconquista but was not particularly loved in his neighbouring country and consequently executed in Mendoza. In Argentina it is therefore known as Lago Buenos Aires, the name given to its capital in 1536 by the Spanish conquistador named, hold your breath, Pedro de Mendoza. The Chileans in their turn named the few rocks in their part of the lake Islas Malvinas, the most painful of Argentine humiliations. And so the animosity continues.</p>
 
 <p>In my opinion this lake indeed deserves two names, for in Chile it houses the impressive Marble Caves, a pleasant climate, beautiful mountain landscapes and lovely bright green nature, while in Argentina it&rsquo;s just windy, dusty and empty. What it lacks in most parts of the desolate pampas, its populations compensates with incredible friendliness.</p>
 
@@ -890,22 +940,6 @@ Back in the huge city where people drive crazy but are oh so friendly and, boy, 
 <p>Stories are soon to follow :)</p>
 
 <p><img src="http://ken-b.github.io/images/DSC00140-001.JPG"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Our First Post]]></title>
-    <link href="http://ken-b.github.io/blog/2013/12/02/our-first-post/"/>
-    <updated>2013-12-02T00:00:00-03:00</updated>
-    <id>http://ken-b.github.io/blog/2013/12/02/our-first-post</id>
-    <content type="html"><![CDATA[<h2>Let&rsquo;s get this Blog started :)</h2>
-
-<p>This here is the song we were listening to while planning and packing and stressing and dancing and &hellip; before we set off on our adventure:</p>
-
-<iframe width="560" height="420" 
-        allowfullscreen="allowfullscreen"
-        src="http://www.youtube.com/embed/b0wfu3tOrtQ?color=white&theme=light"> </iframe>
-
 ]]></content>
   </entry>
   
